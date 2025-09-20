@@ -1,0 +1,1897 @@
+[
+  {
+    "sv": "Hej",
+    "en": "Hi",
+		"category": "Basics"
+  },
+  {
+    "sv": "Vad heter du?",
+    "en": "What is your name?",
+		"category": "Basics"
+  },
+  {
+    "sv": "Trevligt att träffas",
+    "en": "Nice to meet you",
+		"category": "Basics"
+  },
+  {
+    "sv": "Hur mår du?",
+    "en": "How are you?",
+		"category": "Basics"
+  },
+  {
+    "sv": "Jag mår bra, tack",
+    "en": "I'm good, thanks",
+		"category": "Basics"
+  },
+  {
+    "sv": "Och du?",
+    "en": "And you?",
+		"category": "Basics"
+  },
+  {
+    "sv": "Vad menar du?",
+    "en": "What do you mean?",
+		"category": "Understanding"
+  },
+  {
+    "sv": "Jag förstår inte",
+    "en": "I don't understand",
+		"category": "Understanding"
+  },
+  {
+    "sv": "Jag vet inte",
+    "en": "I don't know",
+		"category": "Understanding"
+  },
+  {
+    "sv": "Förlåt",
+    "en": "Sorry",
+		"category": "Understanding"
+  },
+  {
+    "sv": "Vad heter det på sv?",
+    "en": "What is that called in Swedish?",
+		"category": "Understanding"
+  },
+  {
+    "sv": "Vad betyder det ordet på engelska?",
+    "en": "What does that word mean in en?",
+		"category": "Understanding"
+  },
+  {
+    "sv": "Talar du engelska/sv?",
+    "en": "Do you speak en/Swedish?",
+		"category": "Language & Age"
+  },
+  {
+    "sv": "Talar hon ___?",
+    "en": "Does she speak ___?",
+		"category": "Language & Age"
+  },
+  {
+    "sv": "Bara lite",
+    "en": "A little bit",
+		"category": "Language & Age"
+  },
+  {
+    "sv": "Hur gammal är du?",
+    "en": "How old are you?",
+		"category": "Language & Age"
+  },
+  {
+    "sv": "Jag är trettiotre år",
+    "en": "I'm 33 years old",
+		"category": "Language & Age"
+  },
+  {
+    "sv": "Det var trevligt att prata med dig",
+    "en": "It was nice talking to you",
+		"category": "Language & Age"
+  },
+  {
+    "sv": "Grattis på födelsedagen",
+    "en": "Happy birthday",
+		"category": "Holidays & Occasions"
+  },
+  {
+    "sv": "Gott nytt år",
+    "en": "Happy new year",
+		"category": "Holidays & Occasions"
+  },
+  {
+    "sv": "God jul",
+    "en": "Merry Christmas",
+		"category": "Holidays & Occasions"
+  },
+  {
+    "sv": "Lycka till",
+    "en": "Good luck",
+		"category": "Holidays & Occasions"
+  },
+  {
+    "sv": "Grattis",
+    "en": "Congratulations",
+		"category": "Holidays & Occasions"
+  },
+  {
+    "sv": "Säsonger",
+    "en": "Seasons",
+		"category": "Seasons"
+  },
+  {
+    "sv": "Vår",
+    "en": "Spring",
+		"category": "Seasons"
+  },
+  {
+    "sv": "Sommar",
+    "en": "Summer",
+		"category": "Seasons"
+  },
+  {
+    "sv": "Höst",
+    "en": "Autumn",
+		"category": "Seasons"
+  },
+  {
+    "sv": "Vinter",
+    "en": "Winter",
+		"category": "Seasons"
+  },
+  {
+    "sv": "Himmel",
+    "en": "Sky",
+		"category": "Weather"
+  },
+  {
+    "sv": "Moln",
+    "en": "Cloud",
+		"category": "Weather"
+  },
+  {
+    "sv": "Regnbåge",
+    "en": "Rainbow",
+		"category": "Weather"
+  },
+  {
+    "sv": "Kallt",
+    "en": "Cold",
+		"category": "Weather"
+  },
+  {
+    "sv": "Varmt",
+    "en": "Hot",
+		"category": "Weather"
+  },
+  {
+    "sv": "Det är varmt",
+    "en": "It is hot",
+		"category": "Weather"
+  },
+  {
+    "sv": "Det är kallt",
+    "en": "It is cold",
+		"category": "Weather"
+  },
+  {
+    "sv": "Det är soligt",
+    "en": "It is sunny",
+		"category": "Weather"
+  },
+  {
+    "sv": "Det är molnigt",
+    "en": "It is cloudy",
+		"category": "Weather"
+  },
+  {
+    "sv": "Det är fuktigt",
+    "en": "It is humid",
+		"category": "Weather"
+  },
+  {
+    "sv": "Det regnar",
+    "en": "It is raining",
+		"category": "Weather"
+  },
+  {
+    "sv": "Det snöar",
+    "en": "It is snowing",
+		"category": "Weather"
+  },
+  {
+    "sv": "Det är blåsigt",
+    "en": "It is windy",
+		"category": "Weather"
+  },
+  {
+    "sv": "Hur är vädret?",
+    "en": "How is the weather?",
+		"category": "Weather"
+  },
+  {
+    "sv": "Bra väder",
+    "en": "Good weather",
+		"category": "Weather"
+  },
+  {
+    "sv": "Dåligt väder",
+    "en": "Bad weather",
+		"category": "Weather"
+  },
+  {
+    "sv": "Vilken temperatur är det?",
+    "en": "What is the temperature?",
+		"category": "Weather"
+  },
+  {
+    "sv": "Det är 24 grader",
+    "en": "It is 24 degrees",
+		"category": "Weather"
+  },
+  {
+    "sv": "Färdmedel",
+    "en": "Transportation",
+		"category": "Transportation"
+  },
+  {
+    "sv": "Helikopter",
+    "en": "Helicopter",
+		"category": "Transportation"
+  },
+  {
+    "sv": "Flygplan",
+    "en": "Airplane",
+		"category": "Transportation"
+  },
+  {
+    "sv": "Tåg",
+    "en": "Train",
+		"category": "Transportation"
+  },
+  {
+    "sv": "Båt",
+    "en": "Boat",
+		"category": "Transportation"
+  },
+  {
+    "sv": "Cykel",
+    "en": "Bicycle",
+		"category": "Transportation"
+  },
+  {
+    "sv": "Lastbil",
+    "en": "Truck",
+		"category": "Transportation"
+  },
+  {
+    "sv": "Bil",
+    "en": "Car",
+		"category": "Transportation"
+  },
+  {
+    "sv": "Buss",
+    "en": "Bus",
+		"category": "Transportation"
+  },
+  {
+    "sv": "Spårvagn",
+    "en": "Tram",
+		"category": "Transportation"
+  },
+  {
+    "sv": "Motorcykel",
+    "en": "Motorcycle",
+		"category": "Transportation"
+  },
+  {
+    "sv": "Moped",
+    "en": "Scooter",
+		"category": "Transportation"
+  },
+  {
+    "sv": "Färja",
+    "en": "Ferry",
+		"category": "Transportation"
+  },
+  {
+    "sv": "Taxi",
+    "en": "Taxi",
+		"category": "Transportation"
+  },
+  {
+    "sv": "Tunnelbana",
+    "en": "Subway",
+		"category": "Transportation"
+  },
+  {
+    "sv": "Ambulans",
+    "en": "Ambulance",
+		"category": "Transportation"
+  },
+  {
+    "sv": "Brandbil",
+    "en": "Fire truck",
+		"category": "Transportation"
+  },
+  {
+    "sv": "Polisbil",
+    "en": "Police car",
+		"category": "Transportation"
+  },
+  {
+    "sv": "Traktor",
+    "en": "Tractor",
+		"category": "Transportation"
+  },
+  {
+    "sv": "Imorgon bitti",
+    "en": "Tomorrow morning",
+		"category": "Time & Date"
+  },
+  {
+    "sv": "Förrgår",
+    "en": "Day before yesterday",
+		"category": "Time & Date"
+  },
+  {
+    "sv": "Övermorgon",
+    "en": "Day after tomorrow",
+		"category": "Time & Date"
+  },
+  {
+    "sv": "Nästa vecka",
+    "en": "Next week",
+		"category": "Time & Date"
+  },
+  {
+    "sv": "Förra veckan",
+    "en": "Last week",
+		"category": "Time & Date"
+  },
+  {
+    "sv": "Nästa månad",
+    "en": "Next month",
+		"category": "Time & Date"
+  },
+  {
+    "sv": "Förra månaden",
+    "en": "Last month",
+		"category": "Time & Date"
+  },
+  {
+    "sv": "Nästa år",
+    "en": "Next year",
+		"category": "Time & Date"
+  },
+  {
+    "sv": "Förra året",
+    "en": "Last year",
+		"category": "Time & Date"
+  },
+  {
+    "sv": "Vilken dag?",
+    "en": "What day?",
+		"category": "Time & Date"
+  },
+  {
+    "sv": "Vilken månad?",
+    "en": "What month",
+		"category": "Time & Date"
+  },
+  {
+    "sv": "Vilken dag är det idag?",
+    "en": "What day is it today?",
+		"category": "Time & Date"
+  },
+  {
+    "sv": "Idag är det den 21:a november",
+    "en": "Today is November 21",
+		"category": "Time & Date"
+  },
+  {
+    "sv": "Väck mig klockan 08",
+    "en": "Wake me up at 8",
+		"category": "Time & Date"
+  },
+  {
+    "sv": "Kan vi prata om det imorgon?",
+    "en": "Can we talk about it tomorrow?",
+		"category": "Time & Date"
+  },
+  {
+    "sv": "Morgon",
+    "en": "Morning",
+		"category": "Time & Date"
+  },
+  {
+    "sv": "Eftermiddag",
+    "en": "Afternoon",
+		"category": "Time & Date"
+  },
+  {
+    "sv": "Kväll",
+    "en": "Evening",
+		"category": "Time & Date"
+  },
+  {
+    "sv": "Natt",
+    "en": "Night",
+		"category": "Time & Date"
+  },
+  {
+    "sv": "Midnatt",
+    "en": "Midnight",
+		"category": "Time & Date"
+  },
+  {
+    "sv": "Ikväll",
+    "en": "Tonight",
+		"category": "Time & Date"
+  },
+  {
+    "sv": "Igår kväll",
+    "en": "Last night",
+		"category": "Time & Date"
+  },
+  {
+    "sv": "Idag",
+    "en": "Today",
+		"category": "Time & Date"
+  },
+  {
+    "sv": "Imorgon",
+    "en": "Tomorrow",
+		"category": "Time & Date"
+  },
+  {
+    "sv": "Igår",
+    "en": "Yesterday",
+		"category": "Time & Date"
+  },
+  {
+    "sv": "Efteråt",
+    "en": "Afterward",
+		"category": "Time & Date"
+  },
+  {
+    "sv": "Snart",
+    "en": "Soon",
+		"category": "Time & Date"
+  },
+  {
+    "sv": "Före",
+    "en": "Before",
+		"category": "Time & Date"
+  },
+  {
+    "sv": "Tidig",
+    "en": "Early",
+		"category": "Time & Date"
+  },
+  {
+    "sv": "Sen/försenad",
+    "en": "Late",
+		"category": "Time & Date"
+  },
+  {
+    "sv": "Senare",
+    "en": "Later",
+		"category": "Time & Date"
+  },
+  {
+    "sv": "Aldrig",
+    "en": "Never",
+		"category": "Time & Date"
+  },
+  {
+    "sv": "Nu",
+    "en": "Now",
+		"category": "Time & Date"
+  },
+  {
+    "sv": "En gång",
+    "en": "Once",
+		"category": "Time & Date"
+  },
+  {
+    "sv": "Många gånger",
+    "en": "Many times",
+		"category": "Time & Date"
+  },
+  {
+    "sv": "Ibland",
+    "en": "Sometimes",
+		"category": "Time & Date"
+  },
+  {
+    "sv": "Alltid",
+    "en": "Always",
+		"category": "Time & Date"
+  },
+  {
+    "sv": "Vad är klockan?",
+    "en": "What time is it?",
+		"category": "Time & Date"
+  },
+  {
+    "sv": "Vilken tid?",
+    "en": "At what time?",
+		"category": "Time & Date"
+  },
+  {
+    "sv": "Hur länge?",
+    "en": "For how long?",
+		"category": "Time & Date"
+  },
+  {
+    "sv": "Rum",
+    "en": "Room",
+		"category": "House"
+  },
+  {
+    "sv": "Vardagsrum",
+    "en": "Living room",
+		"category": "House"
+  },
+  {
+    "sv": "Sovrum",
+    "en": "Bedroom",
+		"category": "House"
+  },
+  {
+    "sv": "Matrum",
+    "en": "Dining room",
+		"category": "House"
+  },
+  {
+    "sv": "Kök",
+    "en": "Kitchen",
+		"category": "House"
+  },
+  {
+    "sv": "Badrum",
+    "en": "Bathroom",
+		"category": "House"
+  },
+  {
+    "sv": "Hall",
+    "en": "Hallway",
+		"category": "House"
+  },
+  {
+    "sv": "Tvättstuga",
+    "en": "Laundry room",
+		"category": "House"
+  },
+  {
+    "sv": "Vind",
+    "en": "Attic",
+		"category": "House"
+  },
+  {
+    "sv": "Källare",
+    "en": "Basement",
+		"category": "House"
+  },
+  {
+    "sv": "Garderob",
+    "en": "Closet",
+		"category": "House"
+  },
+  {
+    "sv": "Balkong",
+    "en": "Balcony",
+		"category": "House"
+  },
+  {
+    "sv": "Förråd",
+    "en": "Shed",
+		"category": "House"
+  },
+  {
+    "sv": "Garage",
+    "en": "Garage",
+		"category": "House"
+  },
+  {
+    "sv": "Gård",
+    "en": "Yard",
+		"category": "House"
+  },
+  {
+    "sv": "Brevlåda",
+    "en": "Mailbox",
+		"category": "House"
+  },
+  {
+    "sv": "Dörr",
+    "en": "Door",
+		"category": "House"
+  },
+  {
+    "sv": "Golv",
+    "en": "Floor",
+		"category": "House"
+  },
+  {
+    "sv": "Matta",
+    "en": "Carpet",
+		"category": "House"
+  },
+  {
+    "sv": "Tak",
+    "en": "Ceiling",
+		"category": "House"
+  },
+  {
+    "sv": "Fönster",
+    "en": "Window",
+		"category": "House"
+  },
+  {
+    "sv": "Ljusknapp",
+    "en": "Light switch",
+		"category": "House"
+  },
+  {
+    "sv": "Eluttag",
+    "en": "Electrical socket",
+		"category": "House"
+  },
+  {
+    "sv": "Värmeelement",
+    "en": "Heater",
+		"category": "House"
+  },
+  {
+    "sv": "Luftkonditionering",
+    "en": "Air-conditioner",
+		"category": "House"
+  },
+  {
+    "sv": "Soffa",
+    "en": "Sofa",
+		"category": "House"
+  },
+  {
+    "sv": "Soffbord",
+    "en": "Coffee table",
+		"category": "House"
+  },
+  {
+    "sv": "Bokhylla",
+    "en": "Bookcase",
+		"category": "House"
+  },
+  {
+    "sv": "Bord",
+    "en": "Table",
+		"category": "House"
+  },
+  {
+    "sv": "Stol",
+    "en": "Chair",
+		"category": "House"
+  },
+  {
+    "sv": "Lampa",
+    "en": "Lamp",
+		"category": "House"
+  },
+  {
+    "sv": "Säng",
+    "en": "Bed",
+		"category": "House"
+  },
+  {
+    "sv": "Madrass",
+    "en": "Mattress",
+		"category": "House"
+  },
+  {
+    "sv": "Nattygsborg",
+    "en": "Nightstand",
+		"category": "House"
+  },
+  {
+    "sv": "Byrå",
+    "en": "Dresser",
+		"category": "House"
+  },
+  {
+    "sv": "TV",
+    "en": "Television",
+		"category": "House"
+  },
+  {
+    "sv": "Tvättmaskin",
+    "en": "Washer",
+		"category": "House"
+  },
+  {
+    "sv": "Torktumlar",
+    "en": "Dryer",
+		"category": "House"
+  },
+  {
+    "sv": "Papperskorg",
+    "en": "Wastepaper basket",
+		"category": "House"
+  },
+  {
+    "sv": "Filt",
+    "en": "Blanket",
+		"category": "House"
+  },
+  {
+    "sv": "Kudde",
+    "en": "Pillow",
+		"category": "House"
+  },
+  {
+    "sv": "Lakan",
+    "en": "Sheet",
+		"category": "House"
+  },
+  {
+    "sv": "Örngott",
+    "en": "Pillowcase",
+		"category": "House"
+  },
+  {
+    "sv": "Överkast",
+    "en": "Bedspread",
+		"category": "House"
+  },
+  {
+    "sv": "Klädhängare",
+    "en": "Hanger",
+		"category": "House"
+  },
+  {
+    "sv": "Målning",
+    "en": "Painting",
+		"category": "House"
+  },
+  {
+    "sv": "Krukväxt",
+    "en": "House plant",
+		"category": "House"
+  },
+  {
+    "sv": "Gardiner",
+    "en": "Curtains",
+		"category": "House"
+  },
+  {
+    "sv": "Matta",
+    "en": "Rug",
+		"category": "House"
+  },
+  {
+    "sv": "Klocka",
+    "en": "Clock",
+		"category": "House"
+  },
+  {
+    "sv": "Nycklar",
+    "en": "Keys",
+		"category": "House"
+  },
+  {
+    "sv": "Toalett",
+    "en": "Toilet",
+		"category": "House"
+  },
+  {
+    "sv": "Spegel",
+    "en": "Mirror",
+		"category": "House"
+  },
+  {
+    "sv": "Handfat",
+    "en": "Sink",
+		"category": "House"
+  },
+  {
+    "sv": "Badkar",
+    "en": "Bathtub",
+		"category": "House"
+  },
+  {
+    "sv": "Dusch",
+    "en": "Shower",
+		"category": "House"
+  },
+  {
+    "sv": "Ducschdraperi",
+    "en": "Shower curtain",
+		"category": "House"
+  },
+  {
+    "sv": "Kran",
+    "en": "Faucet",
+		"category": "House"
+  },
+  {
+    "sv": "Toalettpapper",
+    "en": "Toilet paper",
+		"category": "House"
+  },
+  {
+    "sv": "Handduk",
+    "en": "Towel",
+		"category": "House"
+  },
+  {
+    "sv": "Våg",
+    "en": "Scale",
+		"category": "House"
+  },
+  {
+    "sv": "Hårtork",
+    "en": "Hair dryer",
+		"category": "House"
+  },
+  {
+    "sv": "Kylskåp",
+    "en": "Refrigerator",
+		"category": "House"
+  },
+  {
+    "sv": "Spis",
+    "en": "Stove",
+		"category": "House"
+  },
+  {
+    "sv": "Ugn",
+    "en": "Oven",
+		"category": "House"
+  },
+  {
+    "sv": "Mikrovågsugn",
+    "en": "Microwave",
+		"category": "House"
+  },
+  {
+    "sv": "Diskmaskin",
+    "en": "Dishwasher",
+		"category": "House"
+  },
+  {
+    "sv": "Brödrost",
+    "en": "Toaster",
+		"category": "House"
+  },
+  {
+    "sv": "Mixer",
+    "en": "Blender",
+		"category": "House"
+  },
+  {
+    "sv": "Kaffebryggare",
+    "en": "Coffee maker",
+		"category": "House"
+  },
+  {
+    "sv": "Konservöppnare",
+    "en": "Can opener",
+		"category": "House"
+  },
+  {
+    "sv": "Gryta",
+    "en": "Pot",
+		"category": "House"
+  },
+  {
+    "sv": "Panna",
+    "en": "Pan",
+		"category": "House"
+  },
+  {
+    "sv": "Stekpanna",
+    "en": "Frying pan",
+		"category": "House"
+  },
+  {
+    "sv": "Vattenkokare",
+    "en": "Kettle",
+		"category": "House"
+  },
+  {
+    "sv": "Mått",
+    "en": "Measuring cups",
+		"category": "House"
+  },
+  {
+    "sv": "Elvisp",
+    "en": "Mixer",
+		"category": "House"
+  },
+  {
+    "sv": "Skärbräda",
+    "en": "Cutting board",
+		"category": "House"
+  },
+  {
+    "sv": "Sophink",
+    "en": "Trash can",
+		"category": "House"
+  },
+  {
+    "sv": "Människor",
+    "en": "People",
+		"category": "House"
+  },
+  {
+    "sv": "Herr",
+    "en": "Mr.",
+		"category": "People"
+  },
+  {
+    "sv": "Fru",
+    "en": "Mrs.",
+		"category": "People"
+  },
+  {
+    "sv": "Fröken",
+    "en": "Miss",
+		"category": "People"
+  },
+  {
+    "sv": "Pojke",
+    "en": "Boy",
+		"category": "People"
+  },
+  {
+    "sv": "Flicka",
+    "en": "Girl",
+		"category": "People"
+  },
+  {
+    "sv": "Bäbis",
+    "en": "Baby",
+		"category": "People"
+  },
+  {
+    "sv": "Kvinna",
+    "en": "Woman",
+		"category": "People"
+  },
+  {
+    "sv": "Man",
+    "en": "Man",
+		"category": "People"
+  },
+  {
+    "sv": "Vän",
+    "en": "Friend (male)",
+		"category": "People"
+  },
+  {
+    "sv": "Väninna",
+    "en": "Friend (female)",
+		"category": "People"
+  },
+  {
+    "sv": "Pojkvän",
+    "en": "Boyfriend",
+		"category": "People"
+  },
+  {
+    "sv": "Flickvän",
+    "en": "Girlfriend",
+		"category": "People"
+  },
+  {
+    "sv": "Gentleman",
+    "en": "Gentleman",
+		"category": "People"
+  },
+  {
+    "sv": "Dam",
+    "en": "Lady",
+		"category": "People"
+  },
+  {
+    "sv": "Granne",
+    "en": "Neighbour (male)",
+		"category": "People"
+  },
+  {
+    "sv": "Granne",
+    "en": "Neighbour (female)",
+		"category": "People"
+  },
+  {
+    "sv": "Galax",
+    "en": "Galaxy",
+		"category": "Astronomy"
+  },
+  {
+    "sv": "Stjärna",
+    "en": "Star",
+		"category": "Astronomy"
+  },
+  {
+    "sv": "Måne",
+    "en": "Moon",
+		"category": "Astronomy"
+  },
+  {
+    "sv": "Planet",
+    "en": "Planet",
+		"category": "Astronomy"
+  },
+  {
+    "sv": "Asteroid",
+    "en": "Asteroid",
+		"category": "Astronomy"
+  },
+  {
+    "sv": "Komet",
+    "en": "Comet",
+		"category": "Astronomy"
+  },
+  {
+    "sv": "Meteor",
+    "en": "Meteor",
+		"category": "Astronomy"
+  },
+  {
+    "sv": "Rymden",
+    "en": "Space",
+		"category": "Astronomy"
+  },
+  {
+    "sv": "Universum",
+    "en": "Universe",
+		"category": "Astronomy"
+  },
+  {
+    "sv": "Teleskop",
+    "en": "Telescope",
+		"category": "Astronomy"
+  },
+  {
+    "sv": "Solsystem",
+    "en": "Solar system",
+		"category": "Astronomy"
+  },
+  {
+    "sv": "Sol",
+    "en": "Sun",
+		"category": "Astronomy"
+  },
+  {
+    "sv": "Merkurius",
+    "en": "Mercury",
+		"category": "Astronomy"
+  },
+  {
+    "sv": "Venus",
+    "en": "Venus",
+		"category": "Astronomy"
+  },
+  {
+    "sv": "Jorden",
+    "en": "Earth",
+		"category": "Astronomy"
+  },
+  {
+    "sv": "Mars",
+    "en": "Mars",
+		"category": "Astronomy"
+  },
+  {
+    "sv": "Jupiter",
+    "en": "Jupiter",
+		"category": "Astronomy"
+  },
+  {
+    "sv": "Saturnus",
+    "en": "Saturn",
+		"category": "Astronomy"
+  },
+  {
+    "sv": "Uranus",
+    "en": "Uranus",
+		"category": "Astronomy"
+  },
+  {
+    "sv": "Neptunus",
+    "en": "Neptune",
+		"category": "Astronomy"
+  },
+  {
+    "sv": "Pluto",
+    "en": "Pluto",
+		"category": "Astronomy"
+  },
+  {
+    "sv": "Blyertspenna",
+    "en": "Pencil",
+		"category": "School"
+  },
+  {
+    "sv": "Pennvässare",
+    "en": "Pencil sharpener",
+		"category": "School"
+  },
+  {
+    "sv": "Penna",
+    "en": "Pen",
+		"category": "School"
+  },
+  {
+    "sv": "Sax",
+    "en": "Scissors",
+		"category": "School"
+  },
+  {
+    "sv": "Bok",
+    "en": "Book",
+		"category": "School"
+  },
+  {
+    "sv": "Papper",
+    "en": "Paper",
+		"category": "School"
+  },
+  {
+    "sv": "Anteckningsblock",
+    "en": "Notebook",
+		"category": "School"
+  },
+  {
+    "sv": "Mapp",
+    "en": "Folder",
+		"category": "School"
+  },
+  {
+    "sv": "Linjal",
+    "en": "Ruler",
+		"category": "School"
+  },
+  {
+    "sv": "Lim",
+    "en": "Glue",
+		"category": "School"
+  },
+  {
+    "sv": "Suddgummi",
+    "en": "Eraser",
+		"category": "School"
+  },
+  {
+    "sv": "Lunchlåda",
+    "en": "Lunch box",
+		"category": "School"
+  },
+  {
+    "sv": "Svarta tavlan",
+    "en": "Chalkboard",
+		"category": "School"
+  },
+  {
+    "sv": "Skrivbord",
+    "en": "Desk",
+		"category": "School"
+  },
+  {
+    "sv": "Betyg",
+    "en": "Report card",
+		"category": "School"
+  },
+  {
+    "sv": "Klass",
+    "en": "Class level",
+		"category": "School"
+  },
+  {
+    "sv": "Klassrum",
+    "en": "Classroom",
+		"category": "School"
+  },
+  {
+    "sv": "Student",
+    "en": "Student",
+		"category": "School"
+  },
+  {
+    "sv": "Flagga",
+    "en": "Flag",
+		"category": "School"
+  },
+  {
+    "sv": "Ljus",
+    "en": "Light",
+		"category": "School"
+  },
+  {
+    "sv": "Jag behöver en penna",
+    "en": "I need a pen",
+		"category": "School"
+  },
+  {
+    "sv": "Jag måste hitta en karta",
+    "en": "I need to find a map",
+		"category": "School"
+  },
+  {
+    "sv": "Är detta hans skrivbord?",
+    "en": "Is this his desk?",
+		"category": "School"
+  },
+  {
+    "sv": "Var är saxen?",
+    "en": "Where are the scissors?",
+		"category": "School"
+  },
+  {
+    "sv": "Matte",
+    "en": "Maths",
+		"category": "School"
+  },
+  {
+    "sv": "Naturvetenskap",
+    "en": "Science",
+		"category": "School"
+  },
+  {
+    "sv": "Historia",
+    "en": "History",
+		"category": "School"
+  },
+  {
+    "sv": "Läsning",
+    "en": "Reading",
+		"category": "School"
+  },
+  {
+    "sv": "Skrivning",
+    "en": "Writing",
+		"category": "School"
+  },
+  {
+    "sv": "Musik",
+    "en": "Music",
+		"category": "School"
+  },
+  {
+    "sv": "Främmande språk",
+    "en": "Foreign language",
+		"category": "School"
+  },
+  {
+    "sv": "Geografi",
+    "en": "Geography",
+		"category": "School"
+  },
+  {
+    "sv": "Teckning",
+    "en": "Art",
+		"category": "School"
+  },
+  {
+    "sv": "Biologi",
+    "en": "Biology",
+		"category": "School"
+  },
+  {
+    "sv": "Fysik",
+    "en": "Physics",
+		"category": "School"
+  },
+  {
+    "sv": "Glad",
+    "en": "Happy",
+		"category": "Emotions"
+  },
+  {
+    "sv": "Ledsen",
+    "en": "Sad",
+		"category": "Emotions"
+  },
+  {
+    "sv": "Arg",
+    "en": "Angry",
+		"category": "Emotions"
+  },
+  {
+    "sv": "Rädd",
+    "en": "Afraid",
+		"category": "Emotions"
+  },
+  {
+    "sv": "Glädje",
+    "en": "Joy",
+		"category": "Emotions"
+  },
+  {
+    "sv": "Överraskad",
+    "en": "Surprised",
+		"category": "Emotions"
+  },
+  {
+    "sv": "Lugn",
+    "en": "Calm",
+		"category": "Emotions"
+  },
+  {
+    "sv": "Levande",
+    "en": "Alive",
+		"category": "Emotions"
+  },
+  {
+    "sv": "Död",
+    "en": "Dead",
+		"category": "Emotions"
+  },
+  {
+    "sv": "Ensam",
+    "en": "Alone",
+		"category": "Emotions"
+  },
+  {
+    "sv": "Tillsammans",
+    "en": "Together",
+		"category": "Emotions"
+  },
+  {
+    "sv": "Uttråkad",
+    "en": "Bored",
+		"category": "Emotions"
+  },
+  {
+    "sv": "Lätt",
+    "en": "Easy",
+		"category": "Emotions"
+  },
+  {
+    "sv": "Svår",
+    "en": "Difficult",
+		"category": "Emotions"
+  },
+  {
+    "sv": "Dålig",
+    "en": "Bad",
+		"category": "Emotions"
+  },
+  {
+    "sv": "Bra",
+    "en": "Good",
+		"category": "Emotions"
+  },
+  {
+    "sv": "Förlåt",
+    "en": "I am sorry",
+		"category": "Emotions"
+  },
+  {
+    "sv": "Oroa dig inte",
+    "en": "Don't worry",
+		"category": "Emotions"
+  },
+  {
+    "sv": "Var kommer du ifrån?",
+    "en": "Where are you from?",
+		"category": "Personal information"
+  },
+  {
+    "sv": "Jag är från Storbritannien",
+    "en": "I'm from the UK",
+		"category": "Personal information"
+  },
+  {
+    "sv": "Jag är Britt",
+    "en": "I'm British",
+		"category": "Personal information"
+  },
+  {
+    "sv": "Var bor du?",
+    "en": "Where do you live?",
+		"category": "Personal information"
+  },
+  {
+    "sv": "Jag bor i Storbritannien",
+    "en": "I live in the UK",
+		"category": "Personal information"
+  },
+  {
+    "sv": "Vad jobbar du med?",
+    "en": "What do you do for a living?",
+		"category": "Personal information"
+  },
+  {
+    "sv": "Jag är en student",
+    "en": "I'm a student",
+		"category": "Personal information"
+  },
+  {
+    "sv": "Jag har en reservation (för ett rum)",
+    "en": "I have a reservation",
+		"category": "Traveling & Buying"
+  },
+  {
+    "sv": "Har ni lediga rum?",
+    "en": "Do you have rooms available?",
+		"category": "Traveling & Buying"
+  },
+  {
+    "sv": "Jag skulle vilja ha ett rum för icke-rökare",
+    "en": "I would like a non-smoking room",
+		"category": "Traveling & Buying"
+  },
+  {
+    "sv": "Vad kostar det per natt?",
+    "en": "How much it costs per night?",
+		"category": "Traveling & Buying"
+  },
+  {
+    "sv": "Servitör/servitris",
+    "en": "Waiter",
+		"category": "Traveling & Buying"
+  },
+  {
+    "sv": "Hur mycket kostar detta?",
+    "en": "How much is this?",
+		"category": "Traveling & Buying"
+  },
+  {
+    "sv": "Vad är detta?",
+    "en": "What is this?",
+		"category": "Traveling & Buying"
+  },
+  {
+    "sv": "Kan jag hjälpa dig?",
+    "en": "Can I help you?",
+		"category": "Help & Directions"
+  },
+  {
+    "sv": "Kan du hjälpa mig?",
+    "en": "Can you help me?",
+		"category": "Help & Directions"
+  },
+  {
+    "sv": "Var är flygplatsen",
+    "en": "Where is the airport?",
+		"category": "Help & Directions"
+  },
+  {
+    "sv": "Gå rakt fram",
+    "en": "Go straight",
+		"category": "Help & Directions"
+  },
+  {
+    "sv": "Sedan",
+    "en": "Then",
+		"category": "Help & Directions"
+  },
+  {
+    "sv": "Sväng vänster",
+    "en": "Turn left",
+		"category": "Help & Directions"
+  },
+  {
+    "sv": "Sväng höger",
+    "en": "Turn right",
+		"category": "Help & Directions"
+  },
+  {
+    "sv": "Mår du bra?",
+    "en": "Are you okay?",
+		"category": "Help & Directions"
+  },
+  {
+    "sv": "Jag behöver en läkare",
+    "en": "I need a doctor",
+		"category": "Help & Directions"
+  },
+  {
+    "sv": "Hjälp",
+    "en": "Help",
+		"category": "Help & Directions"
+  },
+  {
+    "sv": "Ring en ambulans",
+    "en": "Call the ambulance",
+		"category": "Help & Directions"
+  },
+  {
+    "sv": "Ring polisen",
+    "en": "Call the police",
+		"category": "Help & Directions"
+  },
+  {
+    "sv": "Jag mår illa",
+    "en": "I am sick",
+		"category": "Help & Directions"
+  },
+  {
+    "sv": "Mor",
+    "en": "Mother",
+		"category": "Family"
+  },
+  {
+    "sv": "Far",
+    "en": "Father",
+		"category": "Family"
+  },
+  {
+    "sv": "Bror",
+    "en": "Brother",
+		"category": "Family"
+  },
+  {
+    "sv": "Syster",
+    "en": "Sister",
+		"category": "Family"
+  },
+  {
+    "sv": "Son",
+    "en": "Son",
+		"category": "Family"
+  },
+  {
+    "sv": "Dotter",
+    "en": "Daughter",
+		"category": "Family"
+  },
+  {
+    "sv": "Föräldar",
+    "en": "Parents",
+		"category": "Family"
+  },
+  {
+    "sv": "Barn",
+    "en": "Child",
+		"category": "Family"
+  },
+  {
+    "sv": "Barn",
+    "en": "Children",
+		"category": "Family"
+  },
+  {
+    "sv": "Styvmor",
+    "en": "Stepmother",
+		"category": "Family"
+  },
+  {
+    "sv": "Styvfar",
+    "en": "Stepfather",
+		"category": "Family"
+  },
+  {
+    "sv": "Styvsyster",
+    "en": "Stepsister",
+		"category": "Family"
+  },
+  {
+    "sv": "Styvbror",
+    "en": "Stepbrother",
+		"category": "Family"
+  },
+  {
+    "sv": "Svärson",
+    "en": "Son-in-law",
+		"category": "Family"
+  },
+  {
+    "sv": "Svärdotter",
+    "en": "Daughter-in-law",
+		"category": "Family"
+  },
+  {
+    "sv": "Fru",
+    "en": "Wife",
+		"category": "Family"
+  },
+  {
+    "sv": "Make",
+    "en": "Husband",
+		"category": "Family"
+  },
+  {
+    "sv": "Farföräldrar",
+    "en": "Grandparents",
+		"category": "Family"
+  },
+  {
+    "sv": "Farfar",
+    "en": "Grandfather",
+		"category": "Family"
+  },
+  {
+    "sv": "Farmor",
+    "en": "Grandmother",
+		"category": "Family"
+  },
+  {
+    "sv": "Barnbarn",
+    "en": "Grandson",
+		"category": "Family"
+  },
+  {
+    "sv": "Barnbarn",
+    "en": "Granddaughter",
+		"category": "Family"
+  },
+  {
+    "sv": "Barnbarn",
+    "en": "Grandchild",
+		"category": "Family"
+  },
+  {
+    "sv": "Barnbarn",
+    "en": "Grandchildren",
+		"category": "Family"
+  },
+  {
+    "sv": "Moster/faster",
+    "en": "Aunt",
+		"category": "Family"
+  },
+  {
+    "sv": "Morbror/farbror",
+    "en": "Uncle",
+		"category": "Family"
+  },
+  {
+    "sv": "Kusin",
+    "en": "Cousin (male)",
+		"category": "Family"
+  },
+  {
+    "sv": "Kusin",
+    "en": "Cousin (female)",
+		"category": "Family"
+  },
+  {
+    "sv": "Brorson/systerson",
+    "en": "Nephew",
+		"category": "Family"
+  },
+  {
+    "sv": "Brorsdotter/systerdotter",
+    "en": "Niece",
+		"category": "Family"
+  },
+  {
+    "sv": "Svärfar",
+    "en": "Father-in-law",
+		"category": "Family"
+  },
+  {
+    "sv": "Svärmor",
+    "en": "Mother-in-law",
+		"category": "Family"
+  },
+  {
+    "sv": "Svåger",
+    "en": "Brother-in-law",
+		"category": "Family"
+  },
+  {
+    "sv": "Svägerska",
+    "en": "Sister-in-law",
+		"category": "Family"
+  },
+  {
+    "sv": "Släkting",
+    "en": "Relative",
+		"category": "Family"
+  },
+  {
+    "sv": "Kroppsdelar",
+    "en": "Body parts",
+		"category": "Body parts"
+  },
+  {
+    "sv": "Huvud",
+    "en": "Head",
+		"category": "Body parts"
+  },
+  {
+    "sv": "Hår",
+    "en": "Hair",
+		"category": "Body parts"
+  },
+  {
+    "sv": "Ansikte",
+    "en": "Face",
+		"category": "Body parts"
+  },
+  {
+    "sv": "Panna",
+    "en": "Forehead",
+		"category": "Body parts"
+  },
+  {
+    "sv": "Ögonbryn",
+    "en": "Eyebrow",
+		"category": "Body parts"
+  },
+  {
+    "sv": "Ögon",
+    "en": "Eye",
+		"category": "Body parts"
+  },
+  {
+    "sv": "Ögonfransar",
+    "en": "Eyelashes",
+		"category": "Body parts"
+  },
+  {
+    "sv": "Öra",
+    "en": "Ear",
+		"category": "Body parts"
+  },
+  {
+    "sv": "Näsa",
+    "en": "Nose",
+		"category": "Body parts"
+  },
+  {
+    "sv": "Kind",
+    "en": "Cheek",
+		"category": "Body parts"
+  },
+  {
+    "sv": "Mun",
+    "en": "Mouth",
+		"category": "Body parts"
+  },
+  {
+    "sv": "Tänder",
+    "en": "Teeth",
+		"category": "Body parts"
+  },
+  {
+    "sv": "Tunga",
+    "en": "Tongue",
+		"category": "Body parts"
+  },
+  {
+    "sv": "Läppar",
+    "en": "Lips",
+		"category": "Body parts"
+  },
+  {
+    "sv": "Käke",
+    "en": "Jaw",
+		"category": "Body parts"
+  },
+  {
+    "sv": "Haka",
+    "en": "Chin",
+		"category": "Body parts"
+  },
+  {
+    "sv": "Nacke",
+    "en": "Neck",
+		"category": "Body parts"
+  },
+  {
+    "sv": "Hals",
+    "en": "Throat",
+		"category": "Body parts"
+  },
+  {
+    "sv": "Bröstkorg",
+    "en": "Torso",
+		"category": "Body parts"
+  },
+  {
+    "sv": "Axel",
+    "en": "Shoulder",
+		"category": "Body parts"
+  },
+  {
+    "sv": "Bröst",
+    "en": "Chest",
+		"category": "Body parts"
+  },
+  {
+    "sv": "Rygg",
+    "en": "Back",
+		"category": "Body parts"
+  },
+  {
+    "sv": "Midja",
+    "en": "Waist",
+		"category": "Body parts"
+  },
+  {
+    "sv": "Arm",
+    "en": "Arm",
+		"category": "Body parts"
+  },
+  {
+    "sv": "Armbåge",
+    "en": "Elbow",
+		"category": "Body parts"
+  },
+  {
+    "sv": "Underarm",
+    "en": "Forearm",
+		"category": "Body parts"
+  },
+  {
+    "sv": "Handled",
+    "en": "Wrist",
+		"category": "Body parts"
+  },
+  {
+    "sv": "Hand",
+    "en": "Hand",
+		"category": "Body parts"
+  },
+  {
+    "sv": "Finger",
+    "en": "Finger",
+		"category": "Body parts"
+  },
+  {
+    "sv": "Tumme",
+    "en": "Thumb",
+		"category": "Body parts"
+  },
+  {
+    "sv": "Nagel",
+    "en": "Nail",
+		"category": "Body parts"
+  },
+  {
+    "sv": "Skinkor",
+    "en": "Buttocks",
+		"category": "Body parts"
+  },
+  {
+    "sv": "Höft",
+    "en": "Hip",
+		"category": "Body parts"
+  },
+  {
+    "sv": "Ben",
+    "en": "Leg",
+		"category": "Body parts"
+  },
+  {
+    "sv": "Lår",
+    "en": "Thigh",
+		"category": "Body parts"
+  },
+  {
+    "sv": "Knä",
+    "en": "Knee",
+		"category": "Body parts"
+  },
+  {
+    "sv": "Vrist",
+    "en": "Ankle",
+		"category": "Body parts"
+  },
+  {
+    "sv": "Vad",
+    "en": "Calf",
+		"category": "Body parts"
+  },
+  {
+    "sv": "Fot",
+    "en": "Foot",
+		"category": "Body parts"
+  },
+  {
+    "sv": "Häl",
+    "en": "Heel",
+		"category": "Body parts"
+  },
+  {
+    "sv": "Tår",
+    "en": "Toes",
+		"category": "Body parts"
+  }
+]
