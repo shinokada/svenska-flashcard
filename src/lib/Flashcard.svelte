@@ -10,7 +10,7 @@
 	import { twMerge } from 'tailwind-merge';
 	let { front, back, showCardBack, pFront, pBack }: Props = $props();
 
-	const frontDivCls = 'absolute inset-0 bg-custom-red text-white flex justify-center items-center';
+	const frontDivCls = 'absolute inset-0 bg-custom-front text-white flex justify-center items-center';
 	const pClass = 'text-5xl p-4';
 	let frontPCls = twMerge(pClass, pFront);
 	let backPCls = twMerge(pClass, pBack);
@@ -29,7 +29,7 @@
 		<p class={frontPCls}>{@html limitCharacters(front, 200)}</p>
 	</div>
 	<div
-		class="absolute inset-0 flex items-center justify-center bg-custom-blue text-white opacity-0 {showCardBack
+		class="absolute inset-0 flex items-center justify-center bg-custom-back text-white opacity-0 {showCardBack
 			? 'opacity-100 [transform:rotateY(180deg)]'
 			: ''}"
 	>

@@ -33,3 +33,12 @@
 		@apply my-2 text-xl dark:text-white;
 	}
 }
+
+@layer utilities {
+  .bg-custom-front {
+    @apply bg-yellow-500;
+  }
+  .bg-custom-back {
+    @apply bg-blue-900;
+  }
+}
