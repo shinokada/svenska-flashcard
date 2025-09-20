@@ -1377,521 +1377,2786 @@
   {
     "sv": "Var kommer du ifrån?",
     "en": "Where are you from?",
-		"category": "Personal information"
+    "category": "Personal Information"
   },
   {
     "sv": "Jag är från Storbritannien",
     "en": "I'm from the UK",
-		"category": "Personal information"
+    "category": "Personal Information"
   },
   {
     "sv": "Jag är Britt",
     "en": "I'm British",
-		"category": "Personal information"
+    "category": "Personal Information"
   },
   {
     "sv": "Var bor du?",
     "en": "Where do you live?",
-		"category": "Personal information"
+    "category": "Personal Information"
   },
   {
     "sv": "Jag bor i Storbritannien",
     "en": "I live in the UK",
-		"category": "Personal information"
+    "category": "Personal Information"
   },
   {
     "sv": "Vad jobbar du med?",
     "en": "What do you do for a living?",
-		"category": "Personal information"
+    "category": "Personal Information"
   },
   {
     "sv": "Jag är en student",
     "en": "I'm a student",
-		"category": "Personal information"
+    "category": "Personal Information"
   },
   {
     "sv": "Jag har en reservation (för ett rum)",
     "en": "I have a reservation",
-		"category": "Traveling & Buying"
+    "category": "Traveling & Buying"
   },
   {
     "sv": "Har ni lediga rum?",
     "en": "Do you have rooms available?",
-		"category": "Traveling & Buying"
+    "category": "Traveling & Buying"
   },
   {
     "sv": "Jag skulle vilja ha ett rum för icke-rökare",
     "en": "I would like a non-smoking room",
-		"category": "Traveling & Buying"
+    "category": "Traveling & Buying"
   },
   {
     "sv": "Vad kostar det per natt?",
     "en": "How much it costs per night?",
-		"category": "Traveling & Buying"
+    "category": "Traveling & Buying"
   },
   {
-    "sv": "Servitör/servitris",
+    "sv": "Servitör/servitris!",
     "en": "Waiter",
-		"category": "Traveling & Buying"
+    "category": "Traveling & Buying"
   },
   {
     "sv": "Hur mycket kostar detta?",
     "en": "How much is this?",
-		"category": "Traveling & Buying"
+    "category": "Traveling & Buying"
   },
   {
     "sv": "Vad är detta?",
     "en": "What is this?",
-		"category": "Traveling & Buying"
+    "category": "Traveling & Buying"
   },
   {
     "sv": "Kan jag hjälpa dig?",
     "en": "Can I help you?",
-		"category": "Help & Directions"
+    "category": "Help & Directions"
   },
   {
     "sv": "Kan du hjälpa mig?",
     "en": "Can you help me?",
-		"category": "Help & Directions"
+    "category": "Help & Directions"
   },
   {
     "sv": "Var är flygplatsen",
     "en": "Where is the airport?",
-		"category": "Help & Directions"
+    "category": "Help & Directions"
   },
   {
     "sv": "Gå rakt fram",
     "en": "Go straight",
-		"category": "Help & Directions"
+    "category": "Help & Directions"
   },
   {
     "sv": "Sedan",
     "en": "Then",
-		"category": "Help & Directions"
+    "category": "Help & Directions"
   },
   {
     "sv": "Sväng vänster",
     "en": "Turn left",
-		"category": "Help & Directions"
+    "category": "Help & Directions"
   },
   {
     "sv": "Sväng höger",
     "en": "Turn right",
-		"category": "Help & Directions"
+    "category": "Help & Directions"
   },
   {
     "sv": "Mår du bra?",
     "en": "Are you okay?",
-		"category": "Help & Directions"
+    "category": "Emergency"
   },
   {
     "sv": "Jag behöver en läkare",
     "en": "I need a doctor",
-		"category": "Help & Directions"
+    "category": "Emergency"
   },
   {
     "sv": "Hjälp",
     "en": "Help",
-		"category": "Help & Directions"
+    "category": "Emergency"
   },
   {
     "sv": "Ring en ambulans",
     "en": "Call the ambulance",
-		"category": "Help & Directions"
+    "category": "Emergency"
   },
   {
     "sv": "Ring polisen",
     "en": "Call the police",
-		"category": "Help & Directions"
+    "category": "Emergency"
   },
   {
     "sv": "Jag mår illa",
     "en": "I am sick",
-		"category": "Help & Directions"
+    "category": "Emergency"
   },
   {
     "sv": "Mor",
     "en": "Mother",
-		"category": "Family"
+    "category": "Family"
   },
   {
     "sv": "Far",
     "en": "Father",
-		"category": "Family"
+    "category": "Family"
   },
   {
     "sv": "Bror",
     "en": "Brother",
-		"category": "Family"
+    "category": "Family"
   },
   {
     "sv": "Syster",
     "en": "Sister",
-		"category": "Family"
+    "category": "Family"
   },
   {
     "sv": "Son",
     "en": "Son",
-		"category": "Family"
+    "category": "Family"
   },
   {
     "sv": "Dotter",
     "en": "Daughter",
-		"category": "Family"
+    "category": "Family"
   },
   {
-    "sv": "Föräldar",
+    "sv": "Föräldrar",
     "en": "Parents",
-		"category": "Family"
+    "category": "Family"
   },
   {
     "sv": "Barn",
     "en": "Child",
-		"category": "Family"
+    "category": "Family"
   },
   {
     "sv": "Barn",
     "en": "Children",
-		"category": "Family"
+    "category": "Family"
   },
   {
     "sv": "Styvmor",
     "en": "Stepmother",
-		"category": "Family"
+    "category": "Family"
   },
   {
     "sv": "Styvfar",
     "en": "Stepfather",
-		"category": "Family"
+    "category": "Family"
   },
   {
     "sv": "Styvsyster",
     "en": "Stepsister",
-		"category": "Family"
+    "category": "Family"
   },
   {
     "sv": "Styvbror",
     "en": "Stepbrother",
-		"category": "Family"
+    "category": "Family"
   },
   {
     "sv": "Svärson",
     "en": "Son-in-law",
-		"category": "Family"
+    "category": "Family"
   },
   {
     "sv": "Svärdotter",
     "en": "Daughter-in-law",
-		"category": "Family"
+    "category": "Family"
   },
   {
     "sv": "Fru",
     "en": "Wife",
-		"category": "Family"
+    "category": "Family"
   },
   {
     "sv": "Make",
     "en": "Husband",
-		"category": "Family"
+    "category": "Family"
   },
   {
     "sv": "Farföräldrar",
     "en": "Grandparents",
-		"category": "Family"
+    "category": "Extended Family"
   },
   {
     "sv": "Farfar",
     "en": "Grandfather",
-		"category": "Family"
+    "category": "Extended Family"
   },
   {
     "sv": "Farmor",
     "en": "Grandmother",
-		"category": "Family"
+    "category": "Extended Family"
   },
   {
     "sv": "Barnbarn",
     "en": "Grandson",
-		"category": "Family"
+    "category": "Extended Family"
   },
   {
     "sv": "Barnbarn",
     "en": "Granddaughter",
-		"category": "Family"
+    "category": "Extended Family"
   },
   {
     "sv": "Barnbarn",
     "en": "Grandchild",
-		"category": "Family"
+    "category": "Extended Family"
   },
   {
     "sv": "Barnbarn",
     "en": "Grandchildren",
-		"category": "Family"
+    "category": "Extended Family"
   },
   {
     "sv": "Moster/faster",
     "en": "Aunt",
-		"category": "Family"
+    "category": "Extended Family"
   },
   {
     "sv": "Morbror/farbror",
     "en": "Uncle",
-		"category": "Family"
+    "category": "Extended Family"
   },
   {
     "sv": "Kusin",
     "en": "Cousin (male)",
-		"category": "Family"
+    "category": "Extended Family"
   },
   {
     "sv": "Kusin",
     "en": "Cousin (female)",
-		"category": "Family"
+    "category": "Extended Family"
   },
   {
     "sv": "Brorson/systerson",
     "en": "Nephew",
-		"category": "Family"
+    "category": "Extended Family"
   },
   {
     "sv": "Brorsdotter/systerdotter",
     "en": "Niece",
-		"category": "Family"
+    "category": "Extended Family"
   },
   {
     "sv": "Svärfar",
     "en": "Father-in-law",
-		"category": "Family"
+    "category": "Extended Family"
   },
   {
     "sv": "Svärmor",
     "en": "Mother-in-law",
-		"category": "Family"
+    "category": "Extended Family"
   },
   {
     "sv": "Svåger",
     "en": "Brother-in-law",
-		"category": "Family"
+    "category": "Extended Family"
   },
   {
     "sv": "Svägerska",
     "en": "Sister-in-law",
-		"category": "Family"
+    "category": "Extended Family"
   },
   {
     "sv": "Släkting",
     "en": "Relative",
-		"category": "Family"
+    "category": "Extended Family"
   },
   {
     "sv": "Kroppsdelar",
     "en": "Body parts",
-		"category": "Body parts"
+    "category": "Body Parts"
   },
   {
     "sv": "Huvud",
     "en": "Head",
-		"category": "Body parts"
+    "category": "Body Parts"
   },
   {
     "sv": "Hår",
     "en": "Hair",
-		"category": "Body parts"
+    "category": "Body Parts"
   },
   {
     "sv": "Ansikte",
     "en": "Face",
-		"category": "Body parts"
+    "category": "Body Parts"
   },
   {
     "sv": "Panna",
     "en": "Forehead",
-		"category": "Body parts"
+    "category": "Body Parts"
   },
   {
     "sv": "Ögonbryn",
     "en": "Eyebrow",
-		"category": "Body parts"
+    "category": "Body Parts"
   },
   {
     "sv": "Ögon",
     "en": "Eye",
-		"category": "Body parts"
+    "category": "Body Parts"
   },
   {
     "sv": "Ögonfransar",
     "en": "Eyelashes",
-		"category": "Body parts"
+    "category": "Body Parts"
   },
   {
     "sv": "Öra",
     "en": "Ear",
-		"category": "Body parts"
+    "category": "Body Parts"
   },
   {
     "sv": "Näsa",
     "en": "Nose",
-		"category": "Body parts"
+    "category": "Body Parts"
   },
   {
     "sv": "Kind",
     "en": "Cheek",
-		"category": "Body parts"
+    "category": "Body Parts"
   },
   {
     "sv": "Mun",
     "en": "Mouth",
-		"category": "Body parts"
+    "category": "Body Parts"
   },
   {
     "sv": "Tänder",
     "en": "Teeth",
-		"category": "Body parts"
+    "category": "Body Parts"
   },
   {
     "sv": "Tunga",
     "en": "Tongue",
-		"category": "Body parts"
+    "category": "Body Parts"
   },
   {
     "sv": "Läppar",
     "en": "Lips",
-		"category": "Body parts"
+    "category": "Body Parts"
   },
   {
     "sv": "Käke",
     "en": "Jaw",
-		"category": "Body parts"
+    "category": "Body Parts"
   },
   {
     "sv": "Haka",
     "en": "Chin",
-		"category": "Body parts"
+    "category": "Body Parts"
   },
   {
     "sv": "Nacke",
     "en": "Neck",
-		"category": "Body parts"
+    "category": "Body Parts"
   },
   {
     "sv": "Hals",
     "en": "Throat",
-		"category": "Body parts"
+    "category": "Body Parts"
   },
   {
     "sv": "Bröstkorg",
     "en": "Torso",
-		"category": "Body parts"
+    "category": "Anatomy"
   },
   {
     "sv": "Axel",
     "en": "Shoulder",
-		"category": "Body parts"
+    "category": "Anatomy"
   },
   {
     "sv": "Bröst",
     "en": "Chest",
-		"category": "Body parts"
+    "category": "Anatomy"
   },
   {
     "sv": "Rygg",
     "en": "Back",
-		"category": "Body parts"
+    "category": "Anatomy"
   },
   {
     "sv": "Midja",
     "en": "Waist",
-		"category": "Body parts"
+    "category": "Anatomy"
   },
   {
     "sv": "Arm",
     "en": "Arm",
-		"category": "Body parts"
+    "category": "Anatomy"
   },
   {
     "sv": "Armbåge",
     "en": "Elbow",
-		"category": "Body parts"
+    "category": "Anatomy"
   },
   {
     "sv": "Underarm",
     "en": "Forearm",
-		"category": "Body parts"
+    "category": "Anatomy"
   },
   {
     "sv": "Handled",
     "en": "Wrist",
-		"category": "Body parts"
+    "category": "Anatomy"
   },
   {
     "sv": "Hand",
     "en": "Hand",
-		"category": "Body parts"
+    "category": "Anatomy"
   },
   {
     "sv": "Finger",
     "en": "Finger",
-		"category": "Body parts"
+    "category": "Anatomy"
   },
   {
     "sv": "Tumme",
     "en": "Thumb",
-		"category": "Body parts"
+    "category": "Anatomy"
   },
   {
     "sv": "Nagel",
     "en": "Nail",
-		"category": "Body parts"
+    "category": "Anatomy"
   },
   {
     "sv": "Skinkor",
     "en": "Buttocks",
-		"category": "Body parts"
+    "category": "Anatomy"
   },
   {
     "sv": "Höft",
     "en": "Hip",
-		"category": "Body parts"
+    "category": "Anatomy"
   },
   {
     "sv": "Ben",
     "en": "Leg",
-		"category": "Body parts"
+    "category": "Anatomy"
   },
   {
     "sv": "Lår",
     "en": "Thigh",
-		"category": "Body parts"
+    "category": "Anatomy"
   },
   {
     "sv": "Knä",
     "en": "Knee",
-		"category": "Body parts"
+    "category": "Anatomy"
   },
   {
     "sv": "Vrist",
     "en": "Ankle",
-		"category": "Body parts"
+    "category": "Anatomy"
   },
   {
     "sv": "Vad",
     "en": "Calf",
-		"category": "Body parts"
+    "category": "Anatomy"
   },
   {
     "sv": "Fot",
     "en": "Foot",
-		"category": "Body parts"
+    "category": "Anatomy"
   },
   {
     "sv": "Häl",
     "en": "Heel",
-		"category": "Body parts"
+    "category": "Anatomy"
   },
   {
     "sv": "Tår",
     "en": "Toes",
-		"category": "Body parts"
+    "category": "Anatomy"
+  },
+  {
+    "sv": "Hud",
+    "en": "Skin",
+    "category": "Internal Organs"
+  },
+  {
+    "sv": "Halsmandlar",
+    "en": "Tonsils",
+    "category": "Internal Organs"
+  },
+  {
+    "sv": "Lever",
+    "en": "Liver",
+    "category": "Internal Organs"
+  },
+  {
+    "sv": "Hjärta",
+    "en": "Heart",
+    "category": "Internal Organs"
+  },
+  {
+    "sv": "Njure",
+    "en": "Kidney",
+    "category": "Internal Organs"
+  },
+  {
+    "sv": "Mage",
+    "en": "Stomach",
+    "category": "Internal Organs"
+  },
+  {
+    "sv": "Nerv",
+    "en": "Nerve",
+    "category": "Internal Organs"
+  },
+  {
+    "sv": "Tarm",
+    "en": "Intestine",
+    "category": "Internal Organs"
+  },
+  {
+    "sv": "Urinblåsa",
+    "en": "Bladder",
+    "category": "Internal Organs"
+  },
+  {
+    "sv": "Ryggmärg",
+    "en": "Spinal cord",
+    "category": "Internal Organs"
+  },
+  {
+    "sv": "Artär",
+    "en": "Artery",
+    "category": "Internal Organs"
+  },
+  {
+    "sv": "Ven",
+    "en": "Vein",
+    "category": "Internal Organs"
+  },
+  {
+    "sv": "Ben",
+    "en": "Bone",
+    "category": "Internal Organs"
+  },
+  {
+    "sv": "Revben",
+    "en": "Rib",
+    "category": "Internal Organs"
+  },
+  {
+    "sv": "Sena",
+    "en": "Tendon",
+    "category": "Internal Organs"
+  },
+  {
+    "sv": "Lunga",
+    "en": "Lung",
+    "category": "Internal Organs"
+  },
+  {
+    "sv": "Muskel",
+    "en": "Muscle",
+    "category": "Internal Organs"
+  },
+  {
+    "sv": "Fotboll",
+    "en": "Football",
+    "category": "Sports"
+  },
+  {
+    "sv": "Baseball",
+    "en": "Baseball",
+    "category": "Sports"
+  },
+  {
+    "sv": "Amerikansk fotboll",
+    "en": "American football",
+    "category": "Sports"
+  },
+  {
+    "sv": "Basket",
+    "en": "Basketball",
+    "category": "Sports"
+  },
+  {
+    "sv": "Hockey",
+    "en": "Hockey",
+    "category": "Sports"
+  },
+  {
+    "sv": "Volleyball",
+    "en": "Volleyball",
+    "category": "Sports"
+  },
+  {
+    "sv": "Cricket",
+    "en": "Cricket",
+    "category": "Sports"
+  },
+  {
+    "sv": "Tennis",
+    "en": "Tennis",
+    "category": "Sports"
+  },
+  {
+    "sv": "Golf",
+    "en": "Golf",
+    "category": "Sports"
+  },
+  {
+    "sv": "Bowling",
+    "en": "Bowling",
+    "category": "Sports"
+  },
+  {
+    "sv": "Rugby",
+    "en": "Rugby",
+    "category": "Sports"
+  },
+  {
+    "sv": "Surfa",
+    "en": "Surfing",
+    "category": "Recreation"
+  },
+  {
+    "sv": "Simma",
+    "en": "Swimming",
+    "category": "Recreation"
+  },
+  {
+    "sv": "Dyka",
+    "en": "Diving",
+    "category": "Recreation"
+  },
+  {
+    "sv": "Cykling",
+    "en": "Cycling",
+    "category": "Recreation"
+  },
+  {
+    "sv": "Bågskytte",
+    "en": "Archery",
+    "category": "Recreation"
+  },
+  {
+    "sv": "Segling",
+    "en": "Sailing",
+    "category": "Recreation"
+  },
+  {
+    "sv": "Fäktning",
+    "en": "Fencing",
+    "category": "Recreation"
+  },
+  {
+    "sv": "Skidåkning",
+    "en": "Skiing",
+    "category": "Recreation"
+  },
+  {
+    "sv": "Snow boarding",
+    "en": "Snow boarding",
+    "category": "Recreation"
+  },
+  {
+    "sv": "Skridskodåkning",
+    "en": "Ice skating",
+    "category": "Recreation"
+  },
+  {
+    "sv": "Boxning",
+    "en": "Boxing",
+    "category": "Recreation"
+  },
+  {
+    "sv": "Löpning",
+    "en": "Running",
+    "category": "Recreation"
+  },
+  {
+    "sv": "Tyngdlyftning",
+    "en": "Weightlifting",
+    "category": "Recreation"
+  },
+  {
+    "sv": "Gitarr",
+    "en": "Guitar",
+    "category": "Musical Instruments"
+  },
+  {
+    "sv": "Trumma",
+    "en": "Drum",
+    "category": "Musical Instruments"
+  },
+  {
+    "sv": "Trumpet",
+    "en": "Trumpet",
+    "category": "Musical Instruments"
+  },
+  {
+    "sv": "Violin",
+    "en": "Violin",
+    "category": "Musical Instruments"
+  },
+  {
+    "sv": "Flöjt",
+    "en": "Flute",
+    "category": "Musical Instruments"
+  },
+  {
+    "sv": "Tuba",
+    "en": "Tuba",
+    "category": "Musical Instruments"
+  },
+  {
+    "sv": "Dragspel",
+    "en": "Harmonica",
+    "category": "Musical Instruments"
+  },
+  {
+    "sv": "Piano",
+    "en": "Piano",
+    "category": "Musical Instruments"
+  },
+  {
+    "sv": "Tamburin",
+    "en": "Tambourine",
+    "category": "Musical Instruments"
+  },
+  {
+    "sv": "Orgel",
+    "en": "Organ",
+    "category": "Musical Instruments"
+  },
+  {
+    "sv": "Harpa",
+    "en": "Harp",
+    "category": "Musical Instruments"
+  },
+  {
+    "sv": "Instrument",
+    "en": "Instrument",
+    "category": "Musical Instruments"
+  },
+  {
+    "sv": "Snäcka",
+    "en": "Seashell",
+    "category": "Ocean Animals & Fish"
+  },
+  {
+    "sv": "Sjöhäst",
+    "en": "Seahorse",
+    "category": "Ocean Animals & Fish"
+  },
+  {
+    "sv": "Val",
+    "en": "Whale",
+    "category": "Ocean Animals & Fish"
+  },
+  {
+    "sv": "Krabba",
+    "en": "Crab",
+    "category": "Ocean Animals & Fish"
+  },
+  {
+    "sv": "Delfin",
+    "en": "Dolphin",
+    "category": "Ocean Animals & Fish"
+  },
+  {
+    "sv": "Säl",
+    "en": "Seal",
+    "category": "Ocean Animals & Fish"
+  },
+  {
+    "sv": "Sjöstjärna",
+    "en": "Starfish",
+    "category": "Ocean Animals & Fish"
+  },
+  {
+    "sv": "Fisk",
+    "en": "Fish",
+    "category": "Ocean Animals & Fish"
+  },
+  {
+    "sv": "Haj",
+    "en": "Shark",
+    "category": "Ocean Animals & Fish"
+  },
+  {
+    "sv": "Piraya",
+    "en": "Piranha",
+    "category": "Ocean Animals & Fish"
+  },
+  {
+    "sv": "Manet",
+    "en": "Jellyfish",
+    "category": "Ocean Animals & Fish"
+  },
+  {
+    "sv": "Räka",
+    "en": "Shrimp",
+    "category": "Ocean Animals & Fish"
+  },
+  {
+    "sv": "Guldfisk",
+    "en": "Goldfish",
+    "category": "Ocean Animals & Fish"
+  },
+  {
+    "sv": "Valross",
+    "en": "Walrus",
+    "category": "Ocean Animals & Fish"
+  },
+  {
+    "sv": "Bläckfisk",
+    "en": "Octopus",
+    "category": "Ocean Animals & Fish"
+  },
+  {
+    "sv": "Djur",
+    "en": "Animals",
+    "category": "Farm Animals"
+  },
+  {
+    "sv": "Kanin",
+    "en": "Rabbit",
+    "category": "Farm Animals"
+  },
+  {
+    "sv": "Höna",
+    "en": "Hen",
+    "category": "Farm Animals"
+  },
+  {
+    "sv": "Tupp",
+    "en": "Rooster",
+    "category": "Farm Animals"
+  },
+  {
+    "sv": "Häst",
+    "en": "Horse",
+    "category": "Farm Animals"
+  },
+  {
+    "sv": "Kyckling",
+    "en": "Chicken",
+    "category": "Farm Animals"
+  },
+  {
+    "sv": "Gris",
+    "en": "Pig",
+    "category": "Farm Animals"
+  },
+  {
+    "sv": "Ko",
+    "en": "Cow",
+    "category": "Farm Animals"
+  },
+  {
+    "sv": "Får",
+    "en": "Sheep",
+    "category": "Farm Animals"
+  },
+  {
+    "sv": "Get",
+    "en": "Goat",
+    "category": "Farm Animals"
+  },
+  {
+    "sv": "Llamadjur",
+    "en": "Llama",
+    "category": "Farm Animals"
+  },
+  {
+    "sv": "Åsna",
+    "en": "Donkey",
+    "category": "Farm Animals"
+  },
+  {
+    "sv": "Kamel",
+    "en": "Camel",
+    "category": "Farm Animals"
+  },
+  {
+    "sv": "Katt",
+    "en": "Cat",
+    "category": "Farm Animals"
+  },
+  {
+    "sv": "Hund",
+    "en": "Dog",
+    "category": "Farm Animals"
+  },
+  {
+    "sv": "Mus",
+    "en": "Mouse",
+    "category": "Farm Animals"
+  },
+  {
+    "sv": "Groda",
+    "en": "Frog",
+    "category": "Farm Animals"
+  },
+  {
+    "sv": "Råtta",
+    "en": "Rat",
+    "category": "Farm Animals"
+  },
+  {
+    "sv": "Lada",
+    "en": "Barn",
+    "category": "Farm Animals"
+  },
+  {
+    "sv": "Bondgård",
+    "en": "Farm",
+    "category": "Farm Animals"
+  },
+  {
+    "sv": "Sköldpadda",
+    "en": "Turtle",
+    "category": "Wild Animals"
+  },
+  {
+    "sv": "Apa",
+    "en": "Monkey",
+    "category": "Wild Animals"
+  },
+  {
+    "sv": "Ödla",
+    "en": "Lizard",
+    "category": "Wild Animals"
+  },
+  {
+    "sv": "Krokodil",
+    "en": "Crocodile",
+    "category": "Wild Animals"
+  },
+  {
+    "sv": "Fladdermus",
+    "en": "Bat",
+    "category": "Wild Animals"
+  },
+  {
+    "sv": "Lejon",
+    "en": "Lion",
+    "category": "Wild Animals"
+  },
+  {
+    "sv": "Tiger",
+    "en": "Tiger",
+    "category": "Wild Animals"
+  },
+  {
+    "sv": "Elefant",
+    "en": "Elephant",
+    "category": "Wild Animals"
+  },
+  {
+    "sv": "Orm",
+    "en": "Snake",
+    "category": "Wild Animals"
+  },
+  {
+    "sv": "Hjort",
+    "en": "Deer",
+    "category": "Wild Animals"
+  },
+  {
+    "sv": "Ekorre",
+    "en": "Squirrel",
+    "category": "Wild Animals"
+  },
+  {
+    "sv": "Känguru",
+    "en": "Kangaroo",
+    "category": "Wild Animals"
+  },
+  {
+    "sv": "Flodhäst",
+    "en": "Hippo",
+    "category": "Wild Animals"
+  },
+  {
+    "sv": "Giraff",
+    "en": "Giraffe",
+    "category": "Wild Animals"
+  },
+  {
+    "sv": "Räv",
+    "en": "Fox",
+    "category": "Wild Animals"
+  },
+  {
+    "sv": "Varg",
+    "en": "Wolf",
+    "category": "Wild Animals"
+  },
+  {
+    "sv": "Alligator",
+    "en": "Alligator",
+    "category": "Wild Animals"
+  },
+  {
+    "sv": "Björn",
+    "en": "Bear",
+    "category": "Wild Animals"
+  },
+  {
+    "sv": "Bi",
+    "en": "Bee",
+    "category": "Insects"
+  },
+  {
+    "sv": "Mygga",
+    "en": "Mosquito",
+    "category": "Insects"
+  },
+  {
+    "sv": "Spindel",
+    "en": "Spider",
+    "category": "Insects"
+  },
+  {
+    "sv": "Gräshoppa",
+    "en": "Grasshopper",
+    "category": "Insects"
+  },
+  {
+    "sv": "Geting",
+    "en": "Wasp",
+    "category": "Insects"
+  },
+  {
+    "sv": "Trollslända",
+    "en": "Dragonfly",
+    "category": "Insects"
+  },
+  {
+    "sv": "Mask",
+    "en": "Worm",
+    "category": "Insects"
+  },
+  {
+    "sv": "Fjäril",
+    "en": "Butterfly",
+    "category": "Insects"
+  },
+  {
+    "sv": "Nyckelpiga",
+    "en": "Ladybug",
+    "category": "Insects"
+  },
+  {
+    "sv": "Myra",
+    "en": "Ant",
+    "category": "Insects"
+  },
+  {
+    "sv": "Fjärilslarv",
+    "en": "Caterpillar",
+    "category": "Insects"
+  },
+  {
+    "sv": "Syrsa",
+    "en": "Cricket",
+    "category": "Insects"
+  },
+  {
+    "sv": "Kackerlacka",
+    "en": "Cockroach",
+    "category": "Insects"
+  },
+  {
+    "sv": "Skalbagge",
+    "en": "Beetle",
+    "category": "Insects"
+  },
+  {
+    "sv": "Fågel",
+    "en": "Bird",
+    "category": "Types Of Birds"
+  },
+  {
+    "sv": "Anka",
+    "en": "Duck",
+    "category": "Types Of Birds"
+  },
+  {
+    "sv": "Påfågel",
+    "en": "Peacock",
+    "category": "Types Of Birds"
+  },
+  {
+    "sv": "Kråka",
+    "en": "Crow",
+    "category": "Types Of Birds"
+  },
+  {
+    "sv": "Duva",
+    "en": "Pigeon",
+    "category": "Types Of Birds"
+  },
+  {
+    "sv": "Kalkon",
+    "en": "Turkey",
+    "category": "Types Of Birds"
+  },
+  {
+    "sv": "Gås",
+    "en": "Goose",
+    "category": "Types Of Birds"
+  },
+  {
+    "sv": "Uggla",
+    "en": "Owl",
+    "category": "Types Of Birds"
+  },
+  {
+    "sv": "Struts",
+    "en": "Ostrich",
+    "category": "Types Of Birds"
+  },
+  {
+    "sv": "Papegoja",
+    "en": "Parrot",
+    "category": "Types Of Birds"
+  },
+  {
+    "sv": "Stork",
+    "en": "Stork",
+    "category": "Types Of Birds"
+  },
+  {
+    "sv": "Örn",
+    "en": "Eagle",
+    "category": "Types Of Birds"
+  },
+  {
+    "sv": "Falk",
+    "en": "Hawk",
+    "category": "Types Of Birds"
+  },
+  {
+    "sv": "Flamingo",
+    "en": "Flamingo",
+    "category": "Types Of Birds"
+  },
+  {
+    "sv": "Fiskmås",
+    "en": "Seagull",
+    "category": "Types Of Birds"
+  },
+  {
+    "sv": "Pingvin",
+    "en": "Penguin",
+    "category": "Types Of Birds"
+  },
+  {
+    "sv": "Svan",
+    "en": "Swan",
+    "category": "Types Of Birds"
+  },
+  {
+    "sv": "Hackspett",
+    "en": "Woodpecker",
+    "category": "Types Of Birds"
+  },
+  {
+    "sv": "Pelikan",
+    "en": "Pelican",
+    "category": "Types Of Birds"
+  },
+  {
+    "sv": "Vulkan",
+    "en": "Volcano",
+    "category": "Geography"
+  },
+  {
+    "sv": "Kanjon",
+    "en": "Canyon",
+    "category": "Geography"
+  },
+  {
+    "sv": "Skog",
+    "en": "Forest",
+    "category": "Geography"
+  },
+  {
+    "sv": "Djungel",
+    "en": "Jungle",
+    "category": "Geography"
+  },
+  {
+    "sv": "Kärr",
+    "en": "Marsh",
+    "category": "Geography"
+  },
+  {
+    "sv": "Berg",
+    "en": "Mountain",
+    "category": "Geography"
+  },
+  {
+    "sv": "Bergskedja",
+    "en": "Mountain range",
+    "category": "Geography"
+  },
+  {
+    "sv": "Kulle",
+    "en": "Hill",
+    "category": "Geography"
+  },
+  {
+    "sv": "Vattenfall",
+    "en": "Waterfall",
+    "category": "Geography"
+  },
+  {
+    "sv": "Flodhäst",
+    "en": "River",
+    "category": "Geography"
+  },
+  {
+    "sv": "Sjö",
+    "en": "Lake",
+    "category": "Geography"
+  },
+  {
+    "sv": "Öken",
+    "en": "Desert",
+    "category": "Geography"
+  },
+  {
+    "sv": "Halvö",
+    "en": "Peninsula",
+    "category": "Geography"
+  },
+  {
+    "sv": "Ö",
+    "en": "Island",
+    "category": "Geography"
+  },
+  {
+    "sv": "Strand",
+    "en": "Beach",
+    "category": "Geography"
+  },
+  {
+    "sv": "Hav",
+    "en": "Ocean",
+    "category": "Geography"
+  },
+  {
+    "sv": "Hav",
+    "en": "Sea",
+    "category": "Geography"
+  },
+  {
+    "sv": "Vik",
+    "en": "Bay",
+    "category": "Geography"
+  },
+  {
+    "sv": "Kust",
+    "en": "Coast",
+    "category": "Geography"
+  },
+  {
+    "sv": "Årets månader",
+    "en": "The months of the year",
+    "category": "Months Of The Year"
+  },
+  {
+    "sv": "Januari",
+    "en": "January",
+    "category": "Months Of The Year"
+  },
+  {
+    "sv": "Februari",
+    "en": "February",
+    "category": "Months Of The Year"
+  },
+  {
+    "sv": "Mars",
+    "en": "March",
+    "category": "Months Of The Year"
+  },
+  {
+    "sv": "April",
+    "en": "April",
+    "category": "Months Of The Year"
+  },
+  {
+    "sv": "Maj",
+    "en": "May",
+    "category": "Months Of The Year"
+  },
+  {
+    "sv": "Juni",
+    "en": "June",
+    "category": "Months Of The Year"
+  },
+  {
+    "sv": "Juli",
+    "en": "July",
+    "category": "Months Of The Year"
+  },
+  {
+    "sv": "Augusti",
+    "en": "August",
+    "category": "Months Of The Year"
+  },
+  {
+    "sv": "September",
+    "en": "September",
+    "category": "Months Of The Year"
+  },
+  {
+    "sv": "Oktober",
+    "en": "October",
+    "category": "Months Of The Year"
+  },
+  {
+    "sv": "November",
+    "en": "November",
+    "category": "Months Of The Year"
+  },
+  {
+    "sv": "December",
+    "en": "December",
+    "category": "Months Of The Year"
+  },
+  {
+    "sv": "Månad",
+    "en": "Month",
+    "category": "Months Of The Year"
+  },
+  {
+    "sv": "År",
+    "en": "Year",
+    "category": "Months Of The Year"
+  },
+  {
+    "sv": "Noll",
+    "en": "Zero",
+    "category": "Numbers"
+  },
+  {
+    "sv": "Ett",
+    "en": "One",
+    "category": "Numbers"
+  },
+  {
+    "sv": "Två",
+    "en": "Two",
+    "category": "Numbers"
+  },
+  {
+    "sv": "Tre",
+    "en": "Three",
+    "category": "Numbers"
+  },
+  {
+    "sv": "Fyra",
+    "en": "Four",
+    "category": "Numbers"
+  },
+  {
+    "sv": "Fem",
+    "en": "Five",
+    "category": "Numbers"
+  },
+  {
+    "sv": "Sex",
+    "en": "Six",
+    "category": "Numbers"
+  },
+  {
+    "sv": "Sju",
+    "en": "Seven",
+    "category": "Numbers"
+  },
+  {
+    "sv": "Åtta",
+    "en": "Eight",
+    "category": "Numbers"
+  },
+  {
+    "sv": "Nio",
+    "en": "Nine",
+    "category": "Numbers"
+  },
+  {
+    "sv": "Tio",
+    "en": "Ten",
+    "category": "Numbers"
+  },
+  {
+    "sv": "Veckodagarna",
+    "en": "The days of the week",
+    "category": "Days of the Week"
+  },
+  {
+    "sv": "Måndag",
+    "en": "Monday",
+    "category": "Days of the Week"
+  },
+  {
+    "sv": "Tisdag",
+    "en": "Tuesday",
+    "category": "Days of the Week"
+  },
+  {
+    "sv": "Onsdag",
+    "en": "Wednesday",
+    "category": "Days of the Week"
+  },
+  {
+    "sv": "Torsdag",
+    "en": "Thursday",
+    "category": "Days of the Week"
+  },
+  {
+    "sv": "Fredag",
+    "en": "Friday",
+    "category": "Days of the Week"
+  },
+  {
+    "sv": "Lördag",
+    "en": "Saturday",
+    "category": "Days of the Week"
+  },
+  {
+    "sv": "Söndag",
+    "en": "Sunday",
+    "category": "Days of the Week"
+  },
+  {
+    "sv": "Dag",
+    "en": "Day",
+    "category": "Days of the Week"
+  },
+  {
+    "sv": "Vecka",
+    "en": "Week",
+    "category": "Days of the Week"
+  },
+  {
+    "sv": "Helg",
+    "en": "Weekend",
+    "category": "Days of the Week"
+  },
+  {
+    "sv": "Färg",
+    "en": "Colour",
+    "category": "Colours"
+  },
+  {
+    "sv": "Svart",
+    "en": "Black",
+    "category": "Colours"
+  },
+  {
+    "sv": "Blå",
+    "en": "Blue",
+    "category": "Colours"
+  },
+  {
+    "sv": "Brun",
+    "en": "Brown",
+    "category": "Colours"
+  },
+  {
+    "sv": "Grön",
+    "en": "Green",
+    "category": "Colours"
+  },
+  {
+    "sv": "Orange",
+    "en": "Orange",
+    "category": "Colours"
+  },
+  {
+    "sv": "Lila",
+    "en": "Purple",
+    "category": "Colours"
+  },
+  {
+    "sv": "Röd",
+    "en": "Red",
+    "category": "Colours"
+  },
+  {
+    "sv": "Vit",
+    "en": "White",
+    "category": "Colours"
+  },
+  {
+    "sv": "Gul",
+    "en": "Yellow",
+    "category": "Colours"
+  },
+  {
+    "sv": "Grå",
+    "en": "Grey",
+    "category": "Colours"
+  },
+  {
+    "sv": "Guld",
+    "en": "Gold",
+    "category": "Colours"
+  },
+  {
+    "sv": "Silver",
+    "en": "Silver",
+    "category": "Colours"
+  },
+  {
+    "sv": "Vad har den för färg?",
+    "en": "What colour is it?",
+    "category": "Colours"
+  },
+  {
+    "sv": "Den är rödfärgad",
+    "en": "The colour is red",
+    "category": "Colours"
+  },
+  {
+    "sv": "Flaska",
+    "en": "Bottle",
+    "category": "Grocery Store"
+  },
+  {
+    "sv": "Burk",
+    "en": "Jar",
+    "category": "Grocery Store"
+  },
+  {
+    "sv": "Burk",
+    "en": "Can",
+    "category": "Grocery Store"
+  },
+  {
+    "sv": "Låda",
+    "en": "Box",
+    "category": "Grocery Store"
+  },
+  {
+    "sv": "Väska",
+    "en": "Bag",
+    "category": "Grocery Store"
+  },
+  {
+    "sv": "Godis",
+    "en": "Candy",
+    "category": "Grocery Store"
+  },
+  {
+    "sv": "Choklad",
+    "en": "Chocolate",
+    "category": "Grocery Store"
+  },
+  {
+    "sv": "Tuggummi",
+    "en": "Gum",
+    "category": "Grocery Store"
+  },
+  {
+    "sv": "Krydda",
+    "en": "Seasoning",
+    "category": "Grocery Store"
+  },
+  {
+    "sv": "Senap",
+    "en": "Mustard",
+    "category": "Grocery Store"
+  },
+  {
+    "sv": "Ketchup",
+    "en": "Ketchup",
+    "category": "Grocery Store"
+  },
+  {
+    "sv": "Majonnäs",
+    "en": "Mayonnaise",
+    "category": "Grocery Store"
+  },
+  {
+    "sv": "Olja",
+    "en": "Oil",
+    "category": "Grocery Store"
+  },
+  {
+    "sv": "Vinäger",
+    "en": "Vinegar",
+    "category": "Grocery Store"
+  },
+  {
+    "sv": "Inköpslista",
+    "en": "Shopping list",
+    "category": "Grocery Shopping List"
+  },
+  {
+    "sv": "Socker",
+    "en": "Sugar",
+    "category": "Grocery Shopping List"
+  },
+  {
+    "sv": "Mjöl",
+    "en": "Flour",
+    "category": "Grocery Shopping List"
+  },
+  {
+    "sv": "Honung",
+    "en": "Honey",
+    "category": "Grocery Shopping List"
+  },
+  {
+    "sv": "Sylt",
+    "en": "Jam",
+    "category": "Grocery Shopping List"
+  },
+  {
+    "sv": "Ris",
+    "en": "Rice",
+    "category": "Grocery Shopping List"
+  },
+  {
+    "sv": "Nudlar",
+    "en": "Noodles",
+    "category": "Grocery Shopping List"
+  },
+  {
+    "sv": "Flingor",
+    "en": "Cereal",
+    "category": "Grocery Shopping List"
+  },
+  {
+    "sv": "Popcorn",
+    "en": "Popcorn",
+    "category": "Grocery Shopping List"
+  },
+  {
+    "sv": "Havre",
+    "en": "Oats",
+    "category": "Grocery Shopping List"
+  },
+  {
+    "sv": "Vete",
+    "en": "Wheat",
+    "category": "Grocery Shopping List"
+  },
+  {
+    "sv": "Djupfryst mat",
+    "en": "Frozen food",
+    "category": "Grocery Shopping List"
+  },
+  {
+    "sv": "Frukt",
+    "en": "Fruit",
+    "category": "Grocery Shopping List"
+  },
+  {
+    "sv": "Grönsaker",
+    "en": "Vegetables",
+    "category": "Grocery Shopping List"
+  },
+  {
+    "sv": "Mejeriprodukter",
+    "en": "Dairy products",
+    "category": "Grocery Shopping List"
+  },
+  {
+    "sv": "Livsmedelsbutiken är öppen",
+    "en": "The grocery store is open",
+    "category": "Grocery Shopping List"
+  },
+  {
+    "sv": "Kundvagn",
+    "en": "Shopping cart",
+    "category": "Grocery Shopping List"
+  },
+  {
+    "sv": "Korg",
+    "en": "Basket",
+    "category": "Grocery Shopping List"
+  },
+  {
+    "sv": "I vilken gång?",
+    "en": "In what aisle?",
+    "category": "Grocery Shopping List"
+  },
+  {
+    "sv": "Finns det ris?",
+    "en": "Do you have rice?",
+    "category": "Grocery Shopping List"
+  },
+  {
+    "sv": "Var är vattnet?",
+    "en": "Where is the water?",
+    "category": "Grocery Shopping List"
+  },
+  {
+    "sv": "Körsbär",
+    "en": "Cherries",
+    "category": "Fruits"
+  },
+  {
+    "sv": "Hallon",
+    "en": "Raspberries",
+    "category": "Fruits"
+  },
+  {
+    "sv": "Blåbär",
+    "en": "Blueberries",
+    "category": "Fruits"
+  },
+  {
+    "sv": "Jordgubbar",
+    "en": "Strawberries",
+    "category": "Fruits"
+  },
+  {
+    "sv": "Citron",
+    "en": "Lemon",
+    "category": "Fruits"
+  },
+  {
+    "sv": "Lime",
+    "en": "Lime",
+    "category": "Fruits"
+  },
+  {
+    "sv": "Äpple",
+    "en": "Apple",
+    "category": "Fruits"
+  },
+  {
+    "sv": "Apelsin",
+    "en": "Orange",
+    "category": "Fruits"
+  },
+  {
+    "sv": "Päron",
+    "en": "Pear",
+    "category": "Fruits"
+  },
+  {
+    "sv": "Banan",
+    "en": "Banana",
+    "category": "Fruits"
+  },
+  {
+    "sv": "Vindruvor",
+    "en": "Grapes",
+    "category": "Fruits"
+  },
+  {
+    "sv": "Grapefrukt",
+    "en": "Grapefruit",
+    "category": "Fruits"
+  },
+  {
+    "sv": "Vattenmelon",
+    "en": "Watermelon",
+    "category": "Fruits"
+  },
+  {
+    "sv": "Ananas",
+    "en": "Pineapple",
+    "category": "Sweet Fruits"
+  },
+  {
+    "sv": "Plommon",
+    "en": "Plum",
+    "category": "Sweet Fruits"
+  },
+  {
+    "sv": "Persika",
+    "en": "Peach",
+    "category": "Sweet Fruits"
+  },
+  {
+    "sv": "Mango",
+    "en": "Mango",
+    "category": "Sweet Fruits"
+  },
+  {
+    "sv": "Aprikos",
+    "en": "Apricot",
+    "category": "Sweet Fruits"
+  },
+  {
+    "sv": "Granatäpple",
+    "en": "Pomegranate",
+    "category": "Sweet Fruits"
+  },
+  {
+    "sv": "Persimon",
+    "en": "Persimmon",
+    "category": "Sweet Fruits"
+  },
+  {
+    "sv": "Kiwi",
+    "en": "Kiwi",
+    "category": "Sweet Fruits"
+  },
+  {
+    "sv": "Litchi",
+    "en": "Litchi",
+    "category": "Sweet Fruits"
+  },
+  {
+    "sv": "Longan",
+    "en": "Longan",
+    "category": "Sweet Fruits"
+  },
+  {
+    "sv": "Balsamgurka",
+    "en": "Balsam pear",
+    "category": "Sweet Fruits"
+  },
+  {
+    "sv": "Passionsfrukt",
+    "en": "Passion fruit",
+    "category": "Sweet Fruits"
+  },
+  {
+    "sv": "Avokado",
+    "en": "Avocado",
+    "category": "Sweet Fruits"
+  },
+  {
+    "sv": "Kokos",
+    "en": "Coconut",
+    "category": "Sweet Fruits"
+  },
+  {
+    "sv": "Selleri",
+    "en": "Celery",
+    "category": "Vegetables"
+  },
+  {
+    "sv": "Aubergine",
+    "en": "Aubergine",
+    "category": "Vegetables"
+  },
+  {
+    "sv": "Zucchini",
+    "en": "Zucchini",
+    "category": "Vegetables"
+  },
+  {
+    "sv": "Lök",
+    "en": "Onion",
+    "category": "Vegetables"
+  },
+  {
+    "sv": "Spenat",
+    "en": "Spinach",
+    "category": "Vegetables"
+  },
+  {
+    "sv": "Sallad",
+    "en": "Salad",
+    "category": "Vegetables"
+  },
+  {
+    "sv": "Gröna bönor",
+    "en": "Green beans",
+    "category": "Vegetables"
+  },
+  {
+    "sv": "Gurka",
+    "en": "Cucumber",
+    "category": "Vegetables"
+  },
+  {
+    "sv": "Rädisa",
+    "en": "Radish",
+    "category": "Vegetables"
+  },
+  {
+    "sv": "Kål",
+    "en": "Cabbage",
+    "category": "Vegetables"
+  },
+  {
+    "sv": "Svamp",
+    "en": "Mushrooms",
+    "category": "Vegetables"
+  },
+  {
+    "sv": "Sallad",
+    "en": "Lettuce",
+    "category": "Vegetables"
+  },
+  {
+    "sv": "Majs",
+    "en": "Corn",
+    "category": "Vegetables"
+  },
+  {
+    "sv": "Potatis",
+    "en": "Potatoes",
+    "category": "Vegetables"
+  },
+  {
+    "sv": "Tomat",
+    "en": "Tomato",
+    "category": "Healthy Vegetables"
+  },
+  {
+    "sv": "Morot",
+    "en": "Carrot",
+    "category": "Healthy Vegetables"
+  },
+  {
+    "sv": "Pisang",
+    "en": "Plantain",
+    "category": "Healthy Vegetables"
+  },
+  {
+    "sv": "Bönor",
+    "en": "Beans",
+    "category": "Healthy Vegetables"
+  },
+  {
+    "sv": "Purjolök",
+    "en": "Leek",
+    "category": "Healthy Vegetables"
+  },
+  {
+    "sv": "Lotusrot",
+    "en": "Lotus root",
+    "category": "Healthy Vegetables"
+  },
+  {
+    "sv": "Bambuskott",
+    "en": "Bamboo shoot",
+    "category": "Healthy Vegetables"
+  },
+  {
+    "sv": "Kronärtskocka",
+    "en": "Artichoke",
+    "category": "Healthy Vegetables"
+  },
+  {
+    "sv": "Sparris",
+    "en": "Asparagus",
+    "category": "Healthy Vegetables"
+  },
+  {
+    "sv": "Brysselkål",
+    "en": "Brussels sprouts",
+    "category": "Healthy Vegetables"
+  },
+  {
+    "sv": "Broccoli",
+    "en": "Broccoli",
+    "category": "Healthy Vegetables"
+  },
+  {
+    "sv": "Ärtor",
+    "en": "Peas",
+    "category": "Healthy Vegetables"
+  },
+  {
+    "sv": "Blomkål",
+    "en": "Cauliflower",
+    "category": "Healthy Vegetables"
+  },
+  {
+    "sv": "Chilipeppar",
+    "en": "Chilli pepper",
+    "category": "Healthy Vegetables"
+  },
+  {
+    "sv": "Salt",
+    "en": "Salt",
+    "category": "Herbs & Spices"
+  },
+  {
+    "sv": "Peppar",
+    "en": "Pepper",
+    "category": "Herbs & Spices"
+  },
+  {
+    "sv": "Kummin",
+    "en": "Caraway",
+    "category": "Herbs & Spices"
+  },
+  {
+    "sv": "Vitlök",
+    "en": "Garlic",
+    "category": "Herbs & Spices"
+  },
+  {
+    "sv": "Basilika",
+    "en": "Basil",
+    "category": "Herbs & Spices"
+  },
+  {
+    "sv": "Koriander",
+    "en": "Coriander",
+    "category": "Herbs & Spices"
+  },
+  {
+    "sv": "Fänkål",
+    "en": "Fennel",
+    "category": "Herbs & Spices"
+  },
+  {
+    "sv": "Mejram",
+    "en": "Marjoram",
+    "category": "Herbs & Spices"
+  },
+  {
+    "sv": "Oregano",
+    "en": "Oregano",
+    "category": "Herbs & Spices"
+  },
+  {
+    "sv": "Persilja",
+    "en": "Parsley",
+    "category": "Herbs & Spices"
+  },
+  {
+    "sv": "Rosmarin",
+    "en": "Rosemary",
+    "category": "Herbs & Spices"
+  },
+  {
+    "sv": "Salvia",
+    "en": "Sage",
+    "category": "Herbs & Spices"
+  },
+  {
+    "sv": "Timjan",
+    "en": "Thyme",
+    "category": "Herbs & Spices"
+  },
+  {
+    "sv": "Muskot",
+    "en": "Nutmeg",
+    "category": "Herbs & Spices"
+  },
+  {
+    "sv": "Paprika",
+    "en": "Paprika",
+    "category": "Herbs & Spices"
+  },
+  {
+    "sv": "Cayenne",
+    "en": "Cayenne",
+    "category": "Herbs & Spices"
+  },
+  {
+    "sv": "Ingefära",
+    "en": "Ginger",
+    "category": "Herbs & Spices"
+  },
+  {
+    "sv": "Mjölk",
+    "en": "Milk",
+    "category": "Dairy Products"
+  },
+  {
+    "sv": "Glass",
+    "en": "Ice cream",
+    "category": "Dairy Products"
+  },
+  {
+    "sv": "Smör",
+    "en": "Butter",
+    "category": "Dairy Products"
+  },
+  {
+    "sv": "Ost",
+    "en": "Cheese",
+    "category": "Dairy Products"
+  },
+  {
+    "sv": "Keso",
+    "en": "Cottage cheese",
+    "category": "Dairy Products"
+  },
+  {
+    "sv": "Grädde",
+    "en": "Cream",
+    "category": "Dairy Products"
+  },
+  {
+    "sv": "Gräddfil",
+    "en": "Sour cream",
+    "category": "Dairy Products"
+  },
+  {
+    "sv": "Yoghurt",
+    "en": "Yoghurt",
+    "category": "Dairy Products"
+  },
+  {
+    "sv": "Ägg",
+    "en": "Eggs",
+    "category": "Dairy Products"
+  },
+  {
+    "sv": "Vispgrädde",
+    "en": "Whipping cream",
+    "category": "Dairy Products"
+  },
+  {
+    "sv": "Nötkött",
+    "en": "Beef",
+    "category": "Meat"
+  },
+  {
+    "sv": "Kalv",
+    "en": "Veal",
+    "category": "Meat"
+  },
+  {
+    "sv": "Skinka",
+    "en": "Ham",
+    "category": "Meat"
+  },
+  {
+    "sv": "Kyckling",
+    "en": "Chicken",
+    "category": "Meat"
+  },
+  {
+    "sv": "Kalkon",
+    "en": "Turkey",
+    "category": "Meat"
+  },
+  {
+    "sv": "Anka",
+    "en": "Duck",
+    "category": "Meat"
+  },
+  {
+    "sv": "Bacon",
+    "en": "Bacon",
+    "category": "Meat"
+  },
+  {
+    "sv": "Fläskkött",
+    "en": "Pork",
+    "category": "Meat"
+  },
+  {
+    "sv": "Filet mignon",
+    "en": "Filet mignon",
+    "category": "Meat"
+  },
+  {
+    "sv": "Korv",
+    "en": "Sausage",
+    "category": "Meat"
+  },
+  {
+    "sv": "Lammkotlett",
+    "en": "Lamb chop",
+    "category": "Meat"
+  },
+  {
+    "sv": "Fläskkotlett",
+    "en": "Pork chop",
+    "category": "Meat"
+  },
+  {
+    "sv": "Kött",
+    "en": "Meat",
+    "category": "Meat"
+  },
+  {
+    "sv": "Fisk",
+    "en": "Fish",
+    "category": "Seafood"
+  },
+  {
+    "sv": "Skaldjur",
+    "en": "Shellfish",
+    "category": "Seafood"
+  },
+  {
+    "sv": "Havsabborre",
+    "en": "Bass",
+    "category": "Seafood"
+  },
+  {
+    "sv": "Lax",
+    "en": "Salmon",
+    "category": "Seafood"
+  },
+  {
+    "sv": "Hummer",
+    "en": "Lobster",
+    "category": "Seafood"
+  },
+  {
+    "sv": "Krabba",
+    "en": "Crab",
+    "category": "Seafood"
+  },
+  {
+    "sv": "Mussla",
+    "en": "Mussel",
+    "category": "Seafood"
+  },
+  {
+    "sv": "Ostron",
+    "en": "Oyster",
+    "category": "Seafood"
+  },
+  {
+    "sv": "Torsk",
+    "en": "Cod",
+    "category": "Seafood"
+  },
+  {
+    "sv": "Mussla",
+    "en": "Clam",
+    "category": "Seafood"
+  },
+  {
+    "sv": "Räka",
+    "en": "Shrimp",
+    "category": "Seafood"
+  },
+  {
+    "sv": "Tonfisk",
+    "en": "Tuna",
+    "category": "Seafood"
+  },
+  {
+    "sv": "Forell",
+    "en": "Trout",
+    "category": "Seafood"
+  },
+  {
+    "sv": "Tunga",
+    "en": "Sole",
+    "category": "Seafood"
+  },
+  {
+    "sv": "Haj",
+    "en": "Shark",
+    "category": "Seafood"
+  },
+  {
+    "sv": "Karp",
+    "en": "Carp",
+    "category": "Seafood"
+  },
+  {
+    "sv": "Tilapia",
+    "en": "Tilapia",
+    "category": "Seafood"
+  },
+  {
+    "sv": "Ål",
+    "en": "Eel",
+    "category": "Seafood"
+  },
+  {
+    "sv": "Havskatt",
+    "en": "Catfish",
+    "category": "Seafood"
+  },
+  {
+    "sv": "Svärdfisk",
+    "en": "Swordfish",
+    "category": "Seafood"
+  },
+  {
+    "sv": "Bageri",
+    "en": "Bakery",
+    "category": "Bakery"
+  },
+  {
+    "sv": "Baguette",
+    "en": "Baguette",
+    "category": "Bakery"
+  },
+  {
+    "sv": "Munk",
+    "en": "Doughnut",
+    "category": "Bakery"
+  },
+  {
+    "sv": "Kaka",
+    "en": "Cookie",
+    "category": "Bakery"
+  },
+  {
+    "sv": "Baguette",
+    "en": "Roll",
+    "category": "Bakery"
+  },
+  {
+    "sv": "Efterrätt",
+    "en": "Dessert",
+    "category": "Bakery"
+  },
+  {
+    "sv": "Tårta",
+    "en": "Cake",
+    "category": "Bakery"
+  },
+  {
+    "sv": "Bröd",
+    "en": "Bread",
+    "category": "Bakery"
+  },
+  {
+    "sv": "Paj",
+    "en": "Pie",
+    "category": "Bakery"
+  },
+  {
+    "sv": "Kaffe",
+    "en": "Coffee",
+    "category": "Drinks"
+  },
+  {
+    "sv": "Te",
+    "en": "Tea",
+    "category": "Drinks"
+  },
+  {
+    "sv": "Läsk",
+    "en": "Soft drink",
+    "category": "Drinks"
+  },
+  {
+    "sv": "Vatten",
+    "en": "Water",
+    "category": "Drinks"
+  },
+  {
+    "sv": "Lemonad",
+    "en": "Lemonade",
+    "category": "Drinks"
+  },
+  {
+    "sv": "Juice",
+    "en": "Juice",
+    "category": "Drinks"
+  },
+  {
+    "sv": "Apelsinjuice",
+    "en": "Orange juice",
+    "category": "Drinks"
+  },
+  {
+    "sv": "Skulle jag kunna få ett glas vatten, tack",
+    "en": "I would like a glass of water please",
+    "category": "Drinks"
+  },
+  {
+    "sv": "Med is",
+    "en": "With ice",
+    "category": "Drinks"
+  },
+  {
+    "sv": "Kläder",
+    "en": "Clothing",
+    "category": "Clothing"
+  },
+  {
+    "sv": "Blus",
+    "en": "Blouse",
+    "category": "Clothing"
+  },
+  {
+    "sv": "Klänning",
+    "en": "Dress",
+    "category": "Clothing"
+  },
+  {
+    "sv": "Kortbyxor",
+    "en": "Shorts",
+    "category": "Clothing"
+  },
+  {
+    "sv": "Byxor",
+    "en": "Pants",
+    "category": "Clothing"
+  },
+  {
+    "sv": "Kjol",
+    "en": "Skirt",
+    "category": "Clothing"
+  },
+  {
+    "sv": "Skjorta",
+    "en": "Shirt",
+    "category": "Clothing"
+  },
+  {
+    "sv": "T-tröja",
+    "en": "T-shirt",
+    "category": "Clothing"
+  },
+  {
+    "sv": "Handväska",
+    "en": "Purse",
+    "category": "Clothing"
+  },
+  {
+    "sv": "Overall",
+    "en": "Overalls",
+    "category": "Clothing"
+  },
+  {
+    "sv": "Jeans",
+    "en": "Jeans",
+    "category": "Clothing"
+  },
+  {
+    "sv": "Kostym",
+    "en": "Suit",
+    "category": "Clothing"
+  },
+  {
+    "sv": "Leggings",
+    "en": "Leggings",
+    "category": "Clothing"
+  },
+  {
+    "sv": "Bälte",
+    "en": "Belt",
+    "category": "Clothing"
+  },
+  {
+    "sv": "Slips",
+    "en": "Tie",
+    "category": "Clothing"
+  },
+  {
+    "sv": "Kappa",
+    "en": "Coat",
+    "category": "Outerwear"
+  },
+  {
+    "sv": "Jacka",
+    "en": "Jacket",
+    "category": "Outerwear"
+  },
+  {
+    "sv": "Regnjacka",
+    "en": "Raincoat",
+    "category": "Outerwear"
+  },
+  {
+    "sv": "Sjalett",
+    "en": "Headscarf",
+    "category": "Outerwear"
+  },
+  {
+    "sv": "Tröja",
+    "en": "Sweater",
+    "category": "Outerwear"
+  },
+  {
+    "sv": "Sjal",
+    "en": "Scarf",
+    "category": "Outerwear"
+  },
+  {
+    "sv": "Handskar",
+    "en": "Gloves",
+    "category": "Outerwear"
+  },
+  {
+    "sv": "Keps",
+    "en": "Cap",
+    "category": "Outerwear"
+  },
+  {
+    "sv": "Hatt",
+    "en": "Hat",
+    "category": "Outerwear"
+  },
+  {
+    "sv": "Stövlar",
+    "en": "Boots",
+    "category": "Outerwear"
+  },
+  {
+    "sv": "Skor",
+    "en": "Shoes",
+    "category": "Outerwear"
+  },
+  {
+    "sv": "Sandaler",
+    "en": "Sandals",
+    "category": "Outerwear"
+  },
+  {
+    "sv": "Paraply",
+    "en": "Umbrella",
+    "category": "Outerwear"
+  },
+  {
+    "sv": "Behå",
+    "en": "Bra",
+    "category": "Undergarments"
+  },
+  {
+    "sv": "Underkläder",
+    "en": "Underwear",
+    "category": "Undergarments"
+  },
+  {
+    "sv": "Undertröja",
+    "en": "Under shirt",
+    "category": "Undergarments"
+  },
+  {
+    "sv": "Sockar",
+    "en": "Socks",
+    "category": "Undergarments"
+  },
+  {
+    "sv": "Strumpor",
+    "en": "Stockings",
+    "category": "Undergarments"
+  },
+  {
+    "sv": "Tights",
+    "en": "Tights",
+    "category": "Undergarments"
+  },
+  {
+    "sv": "Pyjamas",
+    "en": "Pyjamas",
+    "category": "Undergarments"
+  },
+  {
+    "sv": "Klänning",
+    "en": "Robe",
+    "category": "Undergarments"
+  },
+  {
+    "sv": "Tofflor",
+    "en": "Slippers",
+    "category": "Undergarments"
+  },
+  {
+    "sv": "Smycken",
+    "en": "Jewelry",
+    "category": "Jewelry"
+  },
+  {
+    "sv": "Klocka",
+    "en": "Wristwatch",
+    "category": "Jewelry"
+  },
+  {
+    "sv": "Brosch",
+    "en": "Brooch",
+    "category": "Jewelry"
+  },
+  {
+    "sv": "Halsband",
+    "en": "Necklace",
+    "category": "Jewelry"
+  },
+  {
+    "sv": "Kedja",
+    "en": "Chain",
+    "category": "Jewelry"
+  },
+  {
+    "sv": "Örhängen",
+    "en": "Earrings",
+    "category": "Jewelry"
+  },
+  {
+    "sv": "Ring",
+    "en": "Ring",
+    "category": "Jewelry"
+  },
+  {
+    "sv": "Armband",
+    "en": "Bracelet",
+    "category": "Jewelry"
+  },
+  {
+    "sv": "Manchettknapp",
+    "en": "Cuff link",
+    "category": "Jewelry"
+  },
+  {
+    "sv": "Slipsnål",
+    "en": "Tie pin",
+    "category": "Jewelry"
+  },
+  {
+    "sv": "Glasögon",
+    "en": "Glasses",
+    "category": "Jewelry"
+  },
+  {
+    "sv": "Nyckelring",
+    "en": "Keychain",
+    "category": "Jewelry"
+  },
+  {
+    "sv": "Smink",
+    "en": "Makeup",
+    "category": "Makeup & Beauty Products"
+  },
+  {
+    "sv": "Läppstift",
+    "en": "Lipstick",
+    "category": "Makeup & Beauty Products"
+  },
+  {
+    "sv": "Foundation",
+    "en": "Foundation",
+    "category": "Makeup & Beauty Products"
+  },
+  {
+    "sv": "Concealer",
+    "en": "Concealer",
+    "category": "Makeup & Beauty Products"
+  },
+  {
+    "sv": "Rouge",
+    "en": "Blush",
+    "category": "Makeup & Beauty Products"
+  },
+  {
+    "sv": "Mascara",
+    "en": "Mascara",
+    "category": "Makeup & Beauty Products"
+  },
+  {
+    "sv": "Ögonskugga",
+    "en": "Eyeshadow",
+    "category": "Makeup & Beauty Products"
+  },
+  {
+    "sv": "Eyeliner",
+    "en": "Eyeliner",
+    "category": "Makeup & Beauty Products"
+  },
+  {
+    "sv": "Ögonbrynspenna",
+    "en": "Brow pencil",
+    "category": "Makeup & Beauty Products"
+  },
+  {
+    "sv": "Parfym",
+    "en": "Perfume",
+    "category": "Makeup & Beauty Products"
+  },
+  {
+    "sv": "Läppglans",
+    "en": "Lip gloss",
+    "category": "Makeup & Beauty Products"
+  },
+  {
+    "sv": "Fuktighetskräm",
+    "en": "Moisturiser",
+    "category": "Makeup & Beauty Products"
+  },
+  {
+    "sv": "Sminkborste",
+    "en": "Makeup brush",
+    "category": "Makeup & Beauty Products"
+  },
+  {
+    "sv": "Schampo",
+    "en": "Shampoo",
+    "category": "Toiletries"
+  },
+  {
+    "sv": "Balsam",
+    "en": "Conditioner",
+    "category": "Toiletries"
+  },
+  {
+    "sv": "Tvål",
+    "en": "Soap",
+    "category": "Toiletries"
+  },
+  {
+    "sv": "Kräm",
+    "en": "Lotion",
+    "category": "Toiletries"
+  },
+  {
+    "sv": "Borste",
+    "en": "Brush",
+    "category": "Toiletries"
+  },
+  {
+    "sv": "Tandborste",
+    "en": "Toothbrush",
+    "category": "Toiletries"
+  },
+  {
+    "sv": "Tandkräm",
+    "en": "Toothpaste",
+    "category": "Toiletries"
+  },
+  {
+    "sv": "Tandtråd",
+    "en": "Dental floss",
+    "category": "Toiletries"
+  },
+  {
+    "sv": "Rakapparat",
+    "en": "Razor",
+    "category": "Toiletries"
+  },
+  {
+    "sv": "Raklödder",
+    "en": "Shaving cream",
+    "category": "Toiletries"
+  },
+  {
+    "sv": "Deodorant",
+    "en": "Deodorant",
+    "category": "Toiletries"
+  },
+  {
+    "sv": "Nagelsax",
+    "en": "Nail clipper",
+    "category": "Toiletries"
+  },
+  {
+    "sv": "Pincett",
+    "en": "Tweezers",
+    "category": "Toiletries"
   }
 ]
