@@ -43,13 +43,7 @@
   {#if desc?.id && desc.desc}
     <desc id={desc.id}>{desc.desc}</desc>
   {/if}
-  <path
-    stroke="currentColor"
-    stroke-linecap="round"
-    stroke-linejoin="round"
-    stroke-width={strokeWidth}
-    d="m8 10 4 4 4-4"
-  />
+  <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width={strokeWidth} d="m8 10 4 4 4-4" />
 </svg>
 
 <!--

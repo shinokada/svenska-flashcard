@@ -50,13 +50,7 @@
     <desc id={desc.id}>{desc.desc}</desc>
   {/if}
   {#if variation === 'outline'}
-    <path
-      d="M12 4.5V19.5M12 19.5L18.75 12.75M12 19.5L5.25 12.75"
-      stroke={color}
-      stroke-width={strokeWidth}
-      stroke-linecap="round"
-      stroke-linejoin="round"
-    />
+    <path d="M12 4.5V19.5M12 19.5L18.75 12.75M12 19.5L5.25 12.75" stroke={color} stroke-width={strokeWidth} stroke-linecap="round" stroke-linejoin="round" />
   {:else if variation === 'mini'}
     <path
       fill-rule="evenodd"

@@ -24,21 +24,21 @@ export interface Props extends BaseProps {
 }
 
 export interface BaseWord {
-	category: string;
-	explanation?: string;
-	[key: string]: string | undefined;
+  category: string;
+  explanation?: string;
+  [key: string]: string | undefined;
 }
 
 export interface WordPair {
-	front: string;
-	back: string;
+  front: string;
+  back: string;
 }
 
 export type LangPair = {
-	id: string;
-	lang1Code: string;
-	lang2Code: string;
-	lang1: string;
-	lang2: string;
-	dir?: 'ltr' | 'rtl';
+  id: string;
+  lang1Code: string;
+  lang2Code: string;
+  lang1: string;
+  lang2: string;
+  dir?: 'ltr' | 'rtl';
 };

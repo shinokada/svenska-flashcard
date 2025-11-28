@@ -1,7 +1,7 @@
 <script lang="ts">
   import { onMount } from 'svelte';
   import { twMerge } from 'tailwind-merge';
-  import { Flashcard, ArrowLeft, ArrowRight, ArrowUp, ArrowDown } from '$lib';
+  import { Flashcard, ArrowRight, ArrowUp, ArrowDown } from '$lib';
   import { Modal, Button } from 'flowbite-svelte';
   import SearchLinks from './SearchLinks.svelte';
   import { getRandomPair } from '$lib/utils.js';
@@ -37,8 +37,6 @@
   let front: string = $state('');
   let back: string = $state('');
   let showCardBack: boolean = $state(false);
-  let showFront: string = $state(langConfig.lang1);
-  let showBack: string = $state(langConfig.lang2);
   let lang1lang2: string = $state(
     'text-white bg-green-700 hover:bg-green-800 focus:ring-4 focus:ring-green-300 font-medium rounded-lg text-lg px-3 sm:px-5 py-1 sm:py-2.5 me-1 sm:me-2 mb-1 sm:mb-2 dark:bg-green-600 dark:hover:bg-green-700 focus:outline-none dark:focus:ring-green-800 opacity-100'
   );
@@ -113,13 +111,9 @@
   const updateLang = (lang: string, addToHistory = true) => {
     langlang = lang;
     if (lang === 'lang1lang2') {
-      showFront = langConfig.lang1; // Use langConfig
-      showBack = langConfig.lang2;
       lang1lang2 = twMerge(lang1lang2, 'opacity-100');
       lang2lang1 = twMerge(lang2lang1, 'opacity-50');
     } else if (lang === 'lang2lang1') {
-      showFront = langConfig.lang2; // Use langConfig
-      showBack = langConfig.lang1;
       lang1lang2 = twMerge(lang1lang2, 'opacity-50');
       lang2lang1 = twMerge(lang2lang1, 'opacity-100');
     }
@@ -212,7 +206,7 @@
       class="block w-full rounded-lg border border-gray-300 bg-gray-50 p-2.5 text-sm text-gray-900 focus:border-blue-500 focus:ring-blue-500 dark:border-gray-600 dark:bg-gray-700 dark:text-white dark:placeholder-gray-400 dark:focus:border-blue-500 dark:focus:ring-blue-500"
     >
       <option value="">All Categories</option>
-      {#each availableCategories as category}
+      {#each availableCategories as category (category)}
         <option value={category}>{category}</option>
       {/each}
     </select>
