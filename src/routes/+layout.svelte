@@ -10,7 +10,7 @@
   $effect(() => {
     metaTags = page.data.pageMetaTags ? deepMerge(page.data.layoutMetaTags, page.data.pageMetaTags) : data.layoutMetaTags;
   });
-  const analyticsId = data.ANALYTICS_ID_LANGUAGE_APP;
+  const analyticsId = $derived(data.ANALYTICS_ID_LANGUAGE_APP);
 </script>
 
 <Runatics {analyticsId} />

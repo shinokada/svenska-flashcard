@@ -12,8 +12,8 @@
 
   const frontDivCls = 'absolute inset-0 bg-custom-front text-white flex justify-center items-center';
   const pClass = 'text-5xl p-4';
-  let frontPCls = twMerge(pClass, pFront);
-  let backPCls = twMerge(pClass, pBack);
+  let frontPCls = $derived(twMerge(pClass, pFront));
+  let backPCls = $derived(twMerge(pClass, pBack));
 
   function limitCharacters(content: string | undefined, limit: number) {
     if (content === undefined) {
